@@ -1,0 +1,351 @@
+marka,seri,model,yil,yakit,vites,km,motor gucu,motor hacmi,cekis,kimden,durumu,fiyat
+mazda,3,1.5 skyactive-d reflex,2017.0,dizel,otomatik,82884.0,105 hp,1499 cc,onden cekis,galeriden,ikinci el,239.900 TL
+mazda,3,1.5 skyactive-g power sense,2016.0,benzin,otomatik,127863.0,120 hp,1496 cc,onden cekis,galeriden,ikinci el,195.900 TL
+mazda,323,1.5 1.5i,2000.0,benzin & lpg,manuel,365000.0,126 - 150 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,46.750 TL
+mazda,323,1.6 glx,1993.0,benzin & lpg,manuel,403000.0,88 hp,1597 cc,onden cekis,sahibinden,ikinci el,31.500 TL
+mazda,3,1.5 skyactive-d power sense,2016.0,dizel,otomatik,125000.0,105 hp,1499 cc,onden cekis,galeriden,ikinci el,237.000 TL
+mazda,323,1.5 1.5i,2000.0,benzin & lpg,manuel,294000.0,88 hp,1489 cc,onden cekis,galeriden,ikinci el,56.500 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,otomatik,248000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,112.500 TL
+mazda,lantis,1.8,1997.0,benzin & lpg,otomatik,25000.0,101 - 125 hp,1801 - 2000 cm3,onden cekis,galeriden,ikinci el,41.500 TL
+mazda,3,1.5 skyactive-g power,2017.0,benzin,otomatik,29000.0,120 hp,1496 cc,onden cekis,sahibinden,ikinci el,210.000 TL
+mazda,lantis,1.8,1998.0,benzin & lpg,manuel,398000.0,122 hp,1840 cc,onden cekis,sahibinden,ikinci el,46.000 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,manuel,230000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,110.000 TL
+mazda,323,1.5 practica,1998.0,benzin & lpg,manuel,394000.0,101 - 125 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,40.750 TL
+mazda,xedos,9,1998.0,benzin & lpg,yari otomatik,280000.0,151 - 175 hp,2001 - 2500 cm3,onden cekis,sahibinden,ikinci el,59.000 TL
+mazda,323,1.6 familia,1994.0,benzin & lpg,manuel,225000.0,90 hp,1597 cc,onden cekis,sahibinden,ikinci el,41.500 TL
+mazda,323,1.6 1.6i,1997.0,benzin & lpg,manuel,340000.0,88 hp,1598 cc,onden cekis,galeriden,ikinci el,41.500 TL
+mazda,rx,rx-7,1991.0,benzin,manuel,100.0,376 - 400 hp,3001 - 3500 cm3,arkadan itis,sahibinden,ikinci el,165.000 TL
+mazda,323,1.5 1.5i,1998.0,benzin & lpg,manuel,230000.0,88 hp,1498 cc,onden cekis,sahibinden,ikinci el,44.000 TL
+mazda,6,2.0 sport,2013.0,benzin,otomatik,189000.0,165 hp,1998 cc,onden cekis,sahibinden,ikinci el,205.000 TL
+mazda,3,1.5 skyactive-g power sense,2015.0,benzin,otomatik,140000.0,120 hp,1496 cc,onden cekis,galeriden,ikinci el,195.000 TL
+mazda,323,1.6 glx,1993.0,benzin & lpg,manuel,350000.0,88 hp,1597 cc,onden cekis,galeriden,ikinci el,32.500 TL
+mazda,323,1.8 familia,1998.0,benzin & lpg,manuel,29000.0,131 hp,1840 cc,onden cekis,sahibinden,ikinci el,45.000 TL
+mazda,626,2.0,1990.0,benzin & lpg,manuel,245600.0,90 hp,1998 cc,onden cekis,galeriden,ikinci el,36.500 TL
+mazda,626,2.0,1993.0,benzin & lpg,otomatik,380.0,115 hp,1991 cc,onden cekis,sahibinden,ikinci el,46.500 TL
+mazda,2,1.5 sport,2010.0,benzin & lpg,manuel,88000.0,103 hp,1498 cc,onden cekis,sahibinden,ikinci el,115.000 TL
+mazda,323,1.5 1.5i,2000.0,benzin & lpg,manuel,214000.0,88 hp,1489 cc,onden cekis,sahibinden,ikinci el,55.000 TL
+mazda,323,1.5 1.5i,1998.0,benzin & lpg,manuel,460000.0,88 hp,1498 cc,onden cekis,sahibinden,ikinci el,48.000 TL
+mazda,626,2.0,1991.0,benzin & lpg,manuel,420000.0,90 hp,1998 cc,onden cekis,sahibinden,ikinci el,22.500 TL
+mazda,6,2.0 te,2004.0,benzin & lpg,otomatik,250000.0,141 hp,1999 cc,onden cekis,galeriden,ikinci el,92.500 TL
+mazda,2,1.3 go,2009.0,benzin & lpg,manuel,134600.0,86 hp,1349 cc,onden cekis,sahibinden,ikinci el,87.000 TL
+mazda,3,1.5 skyactive-g reflex,2015.0,benzin,manuel,43000.0,120 hp,1496 cc,onden cekis,galeriden,ikinci el,175.000 TL
+mazda,323,1.6 familia,1994.0,benzin & lpg,manuel,380.0,90 hp,1597 cc,onden cekis,sahibinden,ikinci el,31.000 TL
+mazda,3,1.6 touring,2011.0,benzin,otomatik,120000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,90.000 TL
+mazda,3,1.6 impressive,2012.0,benzin & lpg,otomatik,61000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,165.000 TL
+mazda,626,2.0,1990.0,benzin & lpg,yari otomatik,310000.0,101 - 125 hp,1801 - 2000 cm3,onden cekis,galeriden,ikinci el,24.500 TL
+mazda,lantis,1.8,1996.0,benzin & lpg,manuel,255000.0,122 hp,1840 cc,onden cekis,sahibinden,ikinci el,46.500 TL
+mazda,323,1.8 familia,1998.0,benzin & lpg,manuel,310000.0,131 hp,1840 cc,onden cekis,sahibinden,ikinci el,46.000 TL
+mazda,323,1.5 1.5i,1999.0,benzin & lpg,otomatik,207000.0,101 - 125 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,55.000 TL
+mazda,lantis,1.8,1998.0,benzin & lpg,otomatik,265000.0,101 - 125 hp,1801 - 2000 cm3,onden cekis,sahibinden,ikinci el,41.500 TL
+mazda,323,1.6 glx,1994.0,benzin & lpg,otomatik,34500.0,76 - 100 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,35.000 TL
+mazda,6,2.0,2005.0,benzin & lpg,yari otomatik,125000.0,147 hp,1999 cc,onden cekis,sahibinden,ikinci el,122.000 TL
+mazda,3,1.5 skyactive-g motion,2015.0,benzin,otomatik,23000.0,120 hp,1496 cc,onden cekis,galeriden,ikinci el,215.000 TL
+mazda,323,1.6 glx,1997.0,benzin & lpg,manuel,330000.0,88 hp,1598 cc,onden cekis,sahibinden,ikinci el,37.000 TL
+mazda,323,1.6 glx,1993.0,benzin,manuel,205700.0,88 hp,1597 cc,onden cekis,sahibinden,ikinci el,35.000 TL
+mazda,323,1.6 glx,1990.0,benzin & lpg,manuel,395000.0,76 - 100 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,28.000 TL
+mazda,mx,mx-5 1.8,1998.0,benzin,manuel,157000.0,140 hp,1840 cc,arkadan itis,sahibinden,ikinci el,193.000 TL
+mazda,626,2.0,1998.0,benzin & lpg,manuel,79500.0,115 hp,1991 cc,onden cekis,galeriden,ikinci el,85.000 TL
+mazda,6,2.0 sky-g power,2015.0,benzin,otomatik,79800.0,165 hp,1998 cc,onden cekis,sahibinden,ikinci el,355.000 TL
+mazda,3,1.6 impressive,2010.0,benzin & lpg,otomatik,218000.0,105 hp,1598 cc,onden cekis,galeriden,ikinci el,95.000 TL
+mazda,626,2.0,1991.0,benzin & lpg,manuel,279000.0,90 hp,1998 cc,onden cekis,sahibinden,ikinci el,29.000 TL
+mazda,626,2.0,1994.0,benzin & lpg,manuel,302774.0,115 hp,1991 cc,onden cekis,sahibinden,ikinci el,41.000 TL
+mazda,323,1.5 familia,1994.0,benzin & lpg,manuel,418000.0,88 hp,1489 cc,onden cekis,sahibinden,ikinci el,32.000 TL
+mazda,626,2.0,1990.0,benzin & lpg,manuel,280000.0,90 hp,1998 cc,onden cekis,sahibinden,ikinci el,37.000 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,manuel,183000.0,105 hp,1598 cc,onden cekis,galeriden,ikinci el,98.000 TL
+mazda,323,1.8 familia,1994.0,benzin & lpg,otomatik,425000.0,101 - 125 hp,1601 - 1800 cm3,onden cekis,galeriden,ikinci el,41.000 TL
+mazda,323,1.5 practica,1998.0,benzin,manuel,198000.0,88 hp,1489 cc,onden cekis,sahibinden,ikinci el,48.500 TL
+mazda,3,1.6 touring,2008.0,benzin & lpg,otomatik,192000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,77.500 TL
+mazda,626,2.0,1998.0,benzin & lpg,manuel,320000.0,136 hp,1991 cc,onden cekis,sahibinden,ikinci el,57.000 TL
+mazda,626,2.0,2001.0,benzin & lpg,manuel,441000.0,126 - 150 hp,1801 - 2000 cm3,onden cekis,galeriden,ikinci el,63.750 TL
+mazda,6,2.0 dynamic,2010.0,benzin & lpg,otomatik,245000.0,147 hp,1999 cc,onden cekis,galeriden,ikinci el,143.500 TL
+mazda,2,1.3 go,2009.0,benzin & lpg,manuel,180908.0,86 hp,1349 cc,onden cekis,sahibinden,ikinci el,73.000 TL
+mazda,6,2.0 dynamic,2009.0,benzin & lpg,otomatik,171000.0,147 hp,1999 cc,onden cekis,sahibinden,ikinci el,124.500 TL
+mazda,626,2.0,1994.0,benzin,manuel,314000.0,115 hp,1991 cc,onden cekis,sahibinden,ikinci el,32.750 TL
+mazda,323,1.6 1.6i,2003.0,benzin & lpg,otomatik,177500.0,76 - 100 hp,1301 - 1600 cm3,onden cekis,galeriden,ikinci el,74.900 TL
+mazda,626,2.0,1993.0,benzin & lpg,manuel,300000.0,117 hp,1991 cc,onden cekis,sahibinden,ikinci el,37.500 TL
+mazda,323,1.6 glx,1993.0,benzin & lpg,otomatik,341000.0,76 - 100 hp,1301 - 1600 cm3,onden cekis,galeriden,ikinci el,31.500 TL
+mazda,3,1.5 skyactive-g reflex,2017.0,benzin,otomatik,38000.0,120 hp,1496 cc,onden cekis,galeriden,ikinci el,243.000 TL
+mazda,323,1.6 1.6i,1991.0,benzin & lpg,otomatik,224.0,90 hp,1597 cc,onden cekis,sahibinden,ikinci el,30.000 TL
+mazda,323,1.6 glx,1990.0,benzin & lpg,manuel,400000.0,76 - 100 hp,1301 - 1600 cm3,onden cekis,galeriden,ikinci el,32.500 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,manuel,134000.0,105 hp,1598 cc,onden cekis,galeriden,ikinci el,120.000 TL
+mazda,626,2.0,1991.0,benzin & lpg,manuel,320000.0,90 hp,1998 cc,onden cekis,sahibinden,ikinci el,20.000 TL
+mazda,lantis,1.8,1996.0,benzin & lpg,manuel,310000.0,122 hp,1840 cc,onden cekis,galeriden,ikinci el,33.750 TL
+mazda,3,1.6 d impressive,2012.0,dizel,manuel,184000.0,115 hp,1560 cc,onden cekis,galeriden,ikinci el,136.500 TL
+mazda,3,1.6 comfort,2005.0,benzin & lpg,manuel,271000.0,105 hp,1598 cc,onden cekis,galeriden,ikinci el,64.500 TL
+mazda,323,1.6 1.6i,1992.0,benzin & lpg,manuel,339000.0,90 hp,1597 cc,onden cekis,sahibinden,ikinci el,33.000 TL
+mazda,3,1.6 impressive,2010.0,benzin,manuel,248000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,115.000 TL
+mazda,6,2.0 sport,2011.0,benzin,otomatik,142000.0,155 hp,1999 cc,onden cekis,sahibinden,ikinci el,160.000 TL
+mazda,323,1.6 familia,1991.0,benzin & lpg,otomatik,169000.0,101 - 125 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,28.750 TL
+mazda,626,2.0,1991.0,benzin & lpg,manuel,372000.0,90 hp,1998 cc,onden cekis,sahibinden,ikinci el,32.000 TL
+mazda,323,1.5 familia,1998.0,benzin & lpg,manuel,380000.0,101 - 125 hp,1301 - 1600 cm3,onden cekis,sahibinden,ikinci el,41.000 TL
+mazda,323,1.6 1.6i,2003.0,benzin & lpg,otomatik,217000.0,101 - 125 hp,1601 - 1800 cm3,onden cekis,sahibinden,ikinci el,79.500 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,otomatik,159000.0,105 hp,1598 cc,onden cekis,galeriden,ikinci el,116.000 TL
+mazda,lantis,1.8,1996.0,benzin & lpg,manuel,192000.0,122 hp,1840 cc,onden cekis,sahibinden,ikinci el,45.000 TL
+mazda,3,1.6 touring,2010.0,benzin & lpg,manuel,196000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,118.000 TL
+mazda,626,2.0,1993.0,benzin & lpg,manuel,450700.0,115 hp,1991 cc,onden cekis,sahibinden,ikinci el,36.000 TL
+mazda,3,1.6 impressive,2011.0,benzin & lpg,otomatik,165000.0,105 hp,1598 cc,onden cekis,sahibinden,ikinci el,143.000 TL
+mazda,626,2.0,1994.0,benzin & lpg,otomatik,239000.0,115 hp,1991 cc,onden cekis,sahibinden,ikinci el,41.000 TL
+,,,,,,,,,,,,27.750 TL
+,,,,,,,,,,,,33.300 TL
+,,,,,,,,,,,,179.500 TL
+,,,,,,,,,,,,85.000 TL
+,,,,,,,,,,,,249.000 TL
+,,,,,,,,,,,,31.750 TL
+,,,,,,,,,,,,48.750 TL
+,,,,,,,,,,,,73.000 TL
+,,,,,,,,,,,,289.750 TL
+,,,,,,,,,,,,195.000 TL
+,,,,,,,,,,,,144.750 TL
+,,,,,,,,,,,,25.000 TL
+,,,,,,,,,,,,58.000 TL
+,,,,,,,,,,,,35.500 TL
+,,,,,,,,,,,,85.000 TL
+,,,,,,,,,,,,42.250 TL
+,,,,,,,,,,,,36.500 TL
+,,,,,,,,,,,,161.750 TL
+,,,,,,,,,,,,42.500 TL
+,,,,,,,,,,,,78.750 TL
+,,,,,,,,,,,,36.000 TL
+,,,,,,,,,,,,143.000 TL
+,,,,,,,,,,,,46.500 TL
+,,,,,,,,,,,,95.000 TL
+,,,,,,,,,,,,192.000 TL
+,,,,,,,,,,,,83.000 TL
+,,,,,,,,,,,,89.000 TL
+,,,,,,,,,,,,92.750 TL
+,,,,,,,,,,,,90.000 TL
+,,,,,,,,,,,,81.250 TL
+,,,,,,,,,,,,33.750 TL
+,,,,,,,,,,,,35.000 TL
+,,,,,,,,,,,,54.500 TL
+,,,,,,,,,,,,33.500 TL
+,,,,,,,,,,,,112.000 TL
+,,,,,,,,,,,,242.900 TL
+,,,,,,,,,,,,90.000 TL
+,,,,,,,,,,,,89.500 TL
+,,,,,,,,,,,,42.500 TL
+,,,,,,,,,,,,32.500 TL
+,,,,,,,,,,,,42.490 TL
+,,,,,,,,,,,,105.000 TL
+,,,,,,,,,,,,114.750 TL
+,,,,,,,,,,,,29.750 TL
+,,,,,,,,,,,,104.000 TL
+,,,,,,,,,,,,41.500 TL
+,,,,,,,,,,,,49.500 TL
+,,,,,,,,,,,,254.000 TL
+,,,,,,,,,,,,23.500 TL
+,,,,,,,,,,,,271.500 TL
+,,,,,,,,,,,,57.500 TL
+,,,,,,,,,,,,29.250 TL
+,,,,,,,,,,,,200.000 TL
+,,,,,,,,,,,,90.000 TL
+,,,,,,,,,,,,128.000 TL
+,,,,,,,,,,,,259.000 TL
+,,,,,,,,,,,,23.000 TL
+,,,,,,,,,,,,170.000 TL
+,,,,,,,,,,,,107.800 TL
+,,,,,,,,,,,,215.000 TL
+,,,,,,,,,,,,260.000 TL
+,,,,,,,,,,,,30.000 TL
+,,,,,,,,,,,,155.000 TL
+,,,,,,,,,,,,129.500 TL
+,,,,,,,,,,,,43.500 TL
+,,,,,,,,,,,,95.000 TL
+,,,,,,,,,,,,37.500 TL
+,,,,,,,,,,,,35.000 TL
+,,,,,,,,,,,,20.900 TL
+,,,,,,,,,,,,135.000 TL
+,,,,,,,,,,,,53.000 TL
+,,,,,,,,,,,,200.000 TL
+,,,,,,,,,,,,355.000 TL
+,,,,,,,,,,,,117.000 TL
+,,,,,,,,,,,,22.500 TL
+,,,,,,,,,,,,52.000 TL
+,,,,,,,,,,,,42.000 TL
+,,,,,,,,,,,,55.000 TL
+,,,,,,,,,,,,290.000 TL
+,,,,,,,,,,,,89.000 TL
+,,,,,,,,,,,,59.750 TL
+,,,,,,,,,,,,145.000 TL
+,,,,,,,,,,,,112.000 TL
+,,,,,,,,,,,,85.000 TL
+,,,,,,,,,,,,142.250 TL
+,,,,,,,,,,,,35.500 TL
+,,,,,,,,,,,,44.500 TL
+,,,,,,,,,,,,47.250 TL
+,,,,,,,,,,,,35.000 TL
+,,,,,,,,,,,,53.000 TL
+,,,,,,,,,,,,88.500 TL
+,,,,,,,,,,,,125.000 TL
+,,,,,,,,,,,,71.000 TL
+,,,,,,,,,,,,99.500 TL
+,,,,,,,,,,,,37.000 TL
+,,,,,,,,,,,,215.000 TL
+,,,,,,,,,,,,35.000 TL
+,,,,,,,,,,,,262.900 TL
+,,,,,,,,,,,,188.900 TL
+,,,,,,,,,,,,39.500 TL
+,,,,,,,,,,,,41.000 TL
+,,,,,,,,,,,,52.750 TL
+,,,,,,,,,,,,60.000 TL
+,,,,,,,,,,,,136.500 TL
+,,,,,,,,,,,,126.000 TL
+,,,,,,,,,,,,44.750 TL
+,,,,,,,,,,,,27.000 TL
+,,,,,,,,,,,,70.000 TL
+,,,,,,,,,,,,35.000 TL
+,,,,,,,,,,,,185.000 TL
+,,,,,,,,,,,,190.000 TL
+,,,,,,,,,,,,88.750 TL
+,,,,,,,,,,,,86.000 TL
+,,,,,,,,,,,,160.000 TL
+,,,,,,,,,,,,146.000 TL
+,,,,,,,,,,,,132.000 TL
+,,,,,,,,,,,,29.500 TL
+,,,,,,,,,,,,144.000 TL
+,,,,,,,,,,,,24.000 TL
+,,,,,,,,,,,,36.000 TL
+,,,,,,,,,,,,28.500 TL
+,,,,,,,,,,,,119.990 TL
+,,,,,,,,,,,,212.500 TL
+,,,,,,,,,,,,28.000 TL
+,,,,,,,,,,,,168.900 TL
+,,,,,,,,,,,,41.000 TL
+,,,,,,,,,,,,136.900 TL
+,,,,,,,,,,,,295.000 TL
+,,,,,,,,,,,,49.999 TL
+,,,,,,,,,,,,152.500 TL
+,,,,,,,,,,,,43.000 TL
+,,,,,,,,,,,,195.250 TL
+,,,,,,,,,,,,43.000 TL
+,,,,,,,,,,,,28.850 TL
+,,,,,,,,,,,,33.000 TL
+,,,,,,,,,,,,345.000 TL
+,,,,,,,,,,,,72.000 TL
+,,,,,,,,,,,,31.500 TL
+,,,,,,,,,,,,129.000 TL
+,,,,,,,,,,,,355.000 TL
+,,,,,,,,,,,,33.250 TL
+,,,,,,,,,,,,27.500 TL
+,,,,,,,,,,,,43.000 TL
+,,,,,,,,,,,,210.000 TL
+,,,,,,,,,,,,85.500 TL
+,,,,,,,,,,,,106.000 TL
+,,,,,,,,,,,,135.000 TL
+,,,,,,,,,,,,134.000 TL
+,,,,,,,,,,,,36.000 TL
+,,,,,,,,,,,,32.000 TL
+,,,,,,,,,,,,210.000 TL
+,,,,,,,,,,,,315.000 TL
+,,,,,,,,,,,,89.999 TL
+,,,,,,,,,,,,209.500 TL
+,,,,,,,,,,,,88.000 TL
+,,,,,,,,,,,,220.000 TL
+,,,,,,,,,,,,115.000 TL
+,,,,,,,,,,,,37.500 TL
+,,,,,,,,,,,,136.500 TL
+,,,,,,,,,,,,104.750 TL
+,,,,,,,,,,,,330.000 TL
+,,,,,,,,,,,,379.900 TL
+,,,,,,,,,,,,112.000 TL
+,,,,,,,,,,,,19.950 TL
+,,,,,,,,,,,,39.500 TL
+,,,,,,,,,,,,120.000 TL
+,,,,,,,,,,,,249.000 TL
+,,,,,,,,,,,,103.000 TL
+,,,,,,,,,,,,28.250 TL
+,,,,,,,,,,,,128.750 TL
+,,,,,,,,,,,,208.000 TL
+,,,,,,,,,,,,301.000 TL
+,,,,,,,,,,,,37.000 TL
+,,,,,,,,,,,,96.000 TL
+,,,,,,,,,,,,189.950 TL
+,,,,,,,,,,,,260.000 TL
+,,,,,,,,,,,,252.500 TL
+,,,,,,,,,,,,115.000 TL
+,,,,,,,,,,,,132.000 TL
+,,,,,,,,,,,,23.000 TL
+,,,,,,,,,,,,55.000 TL
+,,,,,,,,,,,,117.000 TL
+,,,,,,,,,,,,34.500 TL
+,,,,,,,,,,,,118.000 TL
+,,,,,,,,,,,,107.000 TL
+,,,,,,,,,,,,34.000 TL
+,,,,,,,,,,,,95.000 TL
+,,,,,,,,,,,,42.900 TL
+,,,,,,,,,,,,45.000 TL
+,,,,,,,,,,,,44.500 TL
+,,,,,,,,,,,,29.000 TL
+,,,,,,,,,,,,48.000 TL
+,,,,,,,,,,,,45.000 TL
+,,,,,,,,,,,,105.000 TL
+,,,,,,,,,,,,33.000 TL
+,,,,,,,,,,,,26.000 TL
+,,,,,,,,,,,,42.000 TL
+,,,,,,,,,,,,87.000 TL
+,,,,,,,,,,,,145.000 TL
+,,,,,,,,,,,,88.500 TL
+,,,,,,,,,,,,26.500 TL
+,,,,,,,,,,,,76.000 TL
+,,,,,,,,,,,,63.500 TL
+,,,,,,,,,,,,12.500 TL
+,,,,,,,,,,,,548.500 TL
+,,,,,,,,,,,,49.500 TL
+,,,,,,,,,,,,215.000 TL
+,,,,,,,,,,,,375.000 TL
+,,,,,,,,,,,,84.500 TL
+,,,,,,,,,,,,285.396 TL
+,,,,,,,,,,,,80.000 TL
+,,,,,,,,,,,,88.500 TL
+,,,,,,,,,,,,31.500 TL
+,,,,,,,,,,,,118.500 TL
+,,,,,,,,,,,,215.900 TL
+,,,,,,,,,,,,31.750 TL
+,,,,,,,,,,,,84.750 TL
+,,,,,,,,,,,,145.000 TL
+,,,,,,,,,,,,26.500 TL
+,,,,,,,,,,,,33.000 TL
+,,,,,,,,,,,,519.000 TL
+,,,,,,,,,,,,110.000 TL
+,,,,,,,,,,,,54.000 TL
+,,,,,,,,,,,,220.000 TL
+,,,,,,,,,,,,145.000 TL
+,,,,,,,,,,,,25.950 TL
+,,,,,,,,,,,,138.000 TL
+,,,,,,,,,,,,43.250 TL
+,,,,,,,,,,,,14.000 TL
+,,,,,,,,,,,,31.000 TL
+,,,,,,,,,,,,42.500 TL
+,,,,,,,,,,,,57.500 TL
+,,,,,,,,,,,,125.000 TL
+,,,,,,,,,,,,67.000 TL
+,,,,,,,,,,,,51.000 TL
+,,,,,,,,,,,,220.000 TL
+,,,,,,,,,,,,109.000 TL
+,,,,,,,,,,,,29.000 TL
+,,,,,,,,,,,,173.000 TL
+,,,,,,,,,,,,45.500 TL
+,,,,,,,,,,,,32.000 TL
+,,,,,,,,,,,,153.500 TL
+,,,,,,,,,,,,26.900 TL
+,,,,,,,,,,,,33.500 TL
+,,,,,,,,,,,,27.500 TL
+,,,,,,,,,,,,34.500 TL
+,,,,,,,,,,,,127.500 TL
+,,,,,,,,,,,,133.000 TL
+,,,,,,,,,,,,188.500 TL
+,,,,,,,,,,,,51.500 TL
+,,,,,,,,,,,,32.000 TL
+,,,,,,,,,,,,105.000 TL
+,,,,,,,,,,,,74.000 TL
+,,,,,,,,,,,,57.500 TL
+,,,,,,,,,,,,47.750 TL
+,,,,,,,,,,,,242.000 TL
+,,,,,,,,,,,,45.500 TL
+,,,,,,,,,,,,39.500 TL
+,,,,,,,,,,,,220.900 TL
+,,,,,,,,,,,,52.500 TL
+,,,,,,,,,,,,142.500 TL
+,,,,,,,,,,,,31.500 TL
+,,,,,,,,,,,,193.000 TL
+,,,,,,,,,,,,37.500 TL
