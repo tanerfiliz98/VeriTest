@@ -1,2 +1,2 @@
 # VeriTest
- Sahibinden Veri Çekme ve Düzenleme Ilgili Bir Deneme
+ Sahibinden sitesinden Veri Çekme ve Düzenleme Ilgili Bir Deneme
