@@ -1,0 +1,501 @@
+marka,seri,model,yil,yakit tipi,vites tipi,motor hacmi,motor gucu,kilometre,boya-degisen,takasa uygun,kimden,fiyat
+nissan,almera,1.5 tekna,2007,benzin,duz,1498 cc,98 hp,97.000 km,1 degisen,takasa uygun degil,galeriden,115.000 TL
+nissan,pulsar,1.2 visia,2017,benzin,yari otomatik,1200 cm3' e kadar,101 - 125 hp,53.000 km,belirtilmemis,takasa uygun,galeriden,199.000 TL
+nissan,micra,1.2 match,2016,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,68.000 km,belirtilmemis,takasa uygun,galeriden,183.000 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,285.000 km,1 degisen,takasa uygun,galeriden,71.500 TL
+nissan,micra,1.2 tekna,2005,lpg & benzin,duz,1240 cc,80 hp,170.500 km,tamami boyali,takasa uygun,galeriden,82.500 TL
+nissan,micra,1.3 gx,1998,lpg & benzin,yari otomatik,1201 - 1400 cm3,51 - 75 hp,170.450 km,belirtilmemis,takasa uygun,galeriden,55.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun degil,galeriden,118.000 TL
+nissan,micra,1.2 tekna,2009,benzin,otomatik,1240 cc,80 hp,55.000 km,belirtilmemis,takasa uygun degil,galeriden,120.000 TL
+nissan,micra,1.2 street,2017,benzin,otomatik,1198 cc,80 hp,40.000 km,belirtilmemis,takasa uygun degil,sahibinden,175.000 TL
+nissan,micra,1.2 match,2017,benzin,otomatik,1198 cc,80 hp,39.000 km,tamami orjinal,takasa uygun degil,galeriden,186.000 TL
+nissan,sunny,1.6 ex,1995,lpg & benzin,duz,1597 cc,102 hp,492 km,belirtilmemis,takasa uygun,sahibinden,39.000 TL
+nissan,micra,1.5 dci mood,2007,dizel,duz,1461 cc,82 hp,206.000 km,3 boyali,takasa uygun degil,sahibinden,83.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,255.000 km,"2 degisen, 11 boyali",takasa uygun degil,sahibinden,55.500 TL
+nissan,almera,1.5 luxury,2001,lpg & benzin,duz,1497 cc,90 hp,249.000 km,belirtilmemis,takasa uygun,galeriden,68.750 TL
+nissan,micra,1.2 mood,2007,benzin,duz,1240 cc,80 hp,247.000 km,7 boyali,takasa uygun,sahibinden,83.000 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,28.800 km,tamami orjinal,takasa uygun degil,sahibinden,201.500 TL
+nissan,micra,1.2 passion,2008,benzin,otomatik,1240 cc,80 hp,138.000 km,belirtilmemis,takasa uygun degil,sahibinden,113.500 TL
+nissan,micra,1.2 passion,2006,lpg & benzin,duz,1240 cc,80 hp,205.000 km,"2 degisen, 8 boyali",takasa uygun,galeriden,68.000 TL
+nissan,micra,1.2 match,2018,benzin,otomatik,1198 cc,80 hp,64.081 km,tamami orjinal,takasa uygun,yetkili bayiden,199.900 TL
+nissan,almera,1.5 tekna,2007,lpg & benzin,duz,1498 cc,98 hp,130.000 km,"2 degisen, 7 boyali",takasa uygun degil,sahibinden,85.500 TL
+nissan,maxima,2.0 qx,1999,lpg & benzin,duz,1995 cc,140 hp,307.000 km,7 boyali,takasa uygun,sahibinden,66.500 TL
+nissan,primera,1.6 tekna plus,2004,lpg & benzin,duz,1596 cc,109 hp,220.000 km,"1 degisen, 8 boyali",takasa uygun,sahibinden,79.500 TL
+nissan,micra,1.2 tekna,2005,benzin,duz,1240 cc,80 hp,195.000 km,belirtilmemis,takasa uygun,galeriden,79.500 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,240.000 km,11 boyali,takasa uygun,sahibinden,52.500 TL
+nissan,sunny,1.6 ex,1991,lpg & benzin,duz,1597 cc,90 hp,300 km,11 boyali,takasa uygun degil,sahibinden,43.500 TL
+nissan,primera,1.6 slx,1997,benzin,duz,1597 cc,102 hp,223.000 km,belirtilmemis,takasa uygun degil,sahibinden,70.000 TL
+nissan,primera,1.6 gx,1997,lpg & benzin,duz,1597 cc,100 hp,240.000 km,belirtilmemis,takasa uygun,sahibinden,63.000 TL
+nissan,micra,1.0 ig-t tekna,2021,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,7 km,belirtilmemis,takasa uygun,galeriden,294.900 TL
+nissan,micra,1.2 tekna,2006,benzin,otomatik,1240 cc,80 hp,95.000 km,belirtilmemis,takasa uygun,galeriden,119.000 TL
+nissan,note,1.4 visia,2006,benzin,duz,1386 cc,88 hp,48.000 km,belirtilmemis,takasa uygun degil,galeriden,99.750 TL
+nissan,primera,1.6 visia,2005,lpg & benzin,duz,1596 cc,109 hp,315.000 km,belirtilmemis,takasa uygun degil,sahibinden,71.500 TL
+nissan,almera,1.5 luxury,2001,lpg & benzin,duz,1497 cc,90 hp,305.000 km,"2 degisen, 5 boyali",takasa uygun degil,sahibinden,55.000 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,258.000 km,belirtilmemis,takasa uygun,sahibinden,54.000 TL
+nissan,micra,1.2 match,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,21.000 km,belirtilmemis,takasa uygun,galeriden,213.500 TL
+nissan,note,1.6 tekna,2007,lpg & benzin,otomatik,1598 cc,110 hp,130.000 km,belirtilmemis,takasa uygun degil,sahibinden,130.000 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,283.000 km,belirtilmemis,takasa uygun degil,sahibinden,65.000 TL
+nissan,micra,1.2 passion,2006,benzin,duz,1240 cc,80 hp,226.000 km,4 boyali,takasa uygun,sahibinden,77.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,238.000 km,tamami orjinal,takasa uygun degil,galeriden,79.500 TL
+nissan,primera,2.0 se,1997,lpg & benzin,otomatik,1801 - 2000 cm3,126 - 150 hp,110.000 km,2 boyali,takasa uygun degil,sahibinden,88.000 TL
+nissan,micra,1.2 street,2015,benzin,duz,1198 cc,80 hp,77.000 km,1 boyali,takasa uygun degil,sahibinden,133.000 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,278.000 km,belirtilmemis,takasa uygun degil,sahibinden,65.500 TL
+nissan,micra,1.5 dci visia,2011,dizel,duz,,,164.000 km,tamami orjinal,takasa uygun degil,sahibinden,180.000 TL
+nissan,micra,1.2 street,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,38.413 km,belirtilmemis,takasa uygun degil,yetkili bayiden,169.000 TL
+nissan,micra,1.2 match,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,40.000 km,belirtilmemis,takasa uygun,galeriden,182.500 TL
+nissan,micra,1.3 gx,1997,benzin,yari otomatik,1201 - 1400 cm3,51 - 75 hp,216.000 km,belirtilmemis,takasa uygun,galeriden,57.900 TL
+nissan,micra,1.2 tekna,2004,benzin,otomatik,1240 cc,80 hp,136.000 km,belirtilmemis,takasa uygun degil,galeriden,117.900 TL
+nissan,micra,1.2 match,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,61.000 km,belirtilmemis,takasa uygun,galeriden,202.000 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,33.000 km,belirtilmemis,takasa uygun,galeriden,202.000 TL
+nissan,primera,2.0 se,1999,lpg & benzin,duz,1801 - 2000 cm3,126 - 150 hp,320.000 km,belirtilmemis,takasa uygun,galeriden,57.750 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,100 hp,258.000 km,4 boyali,takasa uygun,sahibinden,62.500 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,183.000 km,belirtilmemis,takasa uygun,sahibinden,78.500 TL
+nissan,micra,1.2 punch,2012,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,54.170 km,belirtilmemis,takasa uygun,galeriden,157.500 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,160.000 km,"3 degisen, 4 boyali",takasa uygun degil,sahibinden,74.000 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1597 cc,100 hp,250.000 km,1 degisen,takasa uygun,galeriden,65.500 TL
+nissan,micra,1.2 street,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,88.056 km,belirtilmemis,takasa uygun,yetkili bayiden,179.900 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1597 cc,100 hp,450.000 km,"1 degisen, 10 boyali",takasa uygun,galeriden,49.500 TL
+nissan,micra,1.0 ig-t platinum,2019,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,28.826 km,belirtilmemis,takasa uygun,yetkili bayiden,249.900 TL
+nissan,pulsar,1.2 tekna,2016,benzin,yari otomatik,1200 cm3' e kadar,101 - 125 hp,118.000 km,belirtilmemis,takasa uygun,galeriden,157.500 TL
+nissan,sunny,1.6 slx,1991,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,389.000 km,belirtilmemis,takasa uygun degil,galeriden,48.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,296.000 km,"4 degisen, 3 boyali",takasa uygun degil,sahibinden,49.000 TL
+nissan,primera,1.6 visia,2006,lpg & benzin,duz,1596 cc,109 hp,180.256 km,1 boyali,takasa uygun degil,sahibinden,95.500 TL
+nissan,almera,1.5 comfort,2002,lpg & benzin,duz,1497 cc,90 hp,135.000 km,belirtilmemis,takasa uygun degil,sahibinden,83.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,217.000 km,belirtilmemis,takasa uygun,sahibinden,78.500 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,298.000 km,"2 degisen, 5 boyali",takasa uygun degil,sahibinden,52.000 TL
+nissan,micra,1.2 tekna,2004,benzin,otomatik,1240 cc,80 hp,179.000 km,"1 degisen, 3 boyali",takasa uygun,galeriden,95.000 TL
+nissan,almera,1.5 luxury,2003,lpg & benzin,duz,1497 cc,90 hp,219.000 km,belirtilmemis,takasa uygun,galeriden,71.900 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,284.000 km,belirtilmemis,takasa uygun,galeriden,71.750 TL
+nissan,micra,1.2 match,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,20.000 km,belirtilmemis,takasa uygun,galeriden,217.500 TL
+nissan,sunny,1.6 ex,1994,lpg & benzin,duz,,,400.000 km,belirtilmemis,takasa uygun degil,sahibinden,39.000 TL
+nissan,maxima,2.0 qx,1996,lpg & benzin,otomatik,1801 - 2000 cm3,126 - 150 hp,435.000 km,belirtilmemis,takasa uygun,sahibinden,77.000 TL
+nissan,micra,1.2 street,2017,benzin,otomatik,1198 cc,80 hp,115.830 km,2 boyali,takasa uygun degil,galeriden,172.000 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,366.000 km,belirtilmemis,takasa uygun degil,galeriden,77.000 TL
+nissan,micra,1.2 match,2016,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,76.000 km,1 boyali,takasa uygun,yetkili bayiden,193.500 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,294.000 km,belirtilmemis,takasa uygun,galeriden,74.000 TL
+nissan,note,1.4 tekna,2010,lpg & benzin,duz,1386 cc,88 hp,187.000 km,3 boyali,takasa uygun,sahibinden,112.000 TL
+nissan,micra,1.2 passion,2007,benzin,duz,1240 cc,80 hp,69.000 km,belirtilmemis,takasa uygun,galeriden,100.000 TL
+nissan,micra,1.2 passion,2006,benzin,otomatik,1240 cc,80 hp,145.000 km,belirtilmemis,takasa uygun degil,galeriden,115.900 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,134.000 km,belirtilmemis,takasa uygun degil,galeriden,117.900 TL
+nissan,note,1.6 tekna,2007,lpg & benzin,otomatik,1598 cc,110 hp,130.000 km,belirtilmemis,takasa uygun,galeriden,132.000 TL
+nissan,micra,1.2 passion,2012,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,32.393 km,belirtilmemis,takasa uygun,galeriden,156.750 TL
+nissan,micra,1.2 tekna,2011,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,53.373 km,belirtilmemis,takasa uygun,galeriden,150.500 TL
+nissan,micra,1.2 street,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,22.500 km,2 boyali,takasa uygun,galeriden,174.000 TL
+nissan,pulsar,1.2 visia,2016,benzin,yari otomatik,1200 cm3' e kadar,101 - 125 hp,54.000 km,belirtilmemis,takasa uygun,galeriden,198.000 TL
+nissan,micra,1.2 street,2016,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,91.000 km,belirtilmemis,takasa uygun,galeriden,174.000 TL
+nissan,micra,1.2 match,2014,benzin,duz,1198 cc,80 hp,29.000 km,belirtilmemis,takasa uygun,galeriden,139.000 TL
+nissan,micra,1.2 tekna,2011,benzin,otomatik,1198 cc,80 hp,72.000 km,"3 degisen, 2 boyali",takasa uygun degil,sahibinden,144.000 TL
+nissan,note,1.5 dci visia,2009,dizel,duz,1461 cc,86 hp,266.000 km,belirtilmemis,takasa uygun degil,sahibinden,230.000 TL
+nissan,note,1.5 dci tekna,2013,dizel,duz,1461 cc,90 hp,138.000 km,"1 degisen, 3 boyali",takasa uygun,sahibinden,139.500 TL
+nissan,350 z,roadster,2017,benzin,otomatik,3001 - 3500 cm3,326 - 350 hp,0 km,belirtilmemis,takasa uygun,galeriden,1.640.000 TL
+nissan,micra,1.2 passion,2009,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,112.000 km,"3 degisen, 2 boyali",takasa uygun,galeriden,122.000 TL
+nissan,micra,1.2 match,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,39.800 km,belirtilmemis,takasa uygun,galeriden,174.900 TL
+nissan,micra,1.3 lx,1996,lpg & benzin,duz,1275 cc,75 hp,210.000 km,belirtilmemis,takasa uygun degil,galeriden,48.500 TL
+nissan,pulsar,1.5 tekna,2016,dizel,duz,1461 cc,110 hp,83.000 km,"2 degisen, 2 boyali",takasa uygun degil,sahibinden,154.000 TL
+nissan,almera,2.0 d gx,2001,dizel,duz,,,55.000 km,3 boyali,takasa uygun degil,sahibinden,80.000 TL
+nissan,primera,1.6,2001,lpg & benzin,duz,,,350.000 km,1 degisen,takasa uygun degil,sahibinden,70.000 TL
+nissan,primera,1.6 gx,1999,benzin,duz,1597 cc,100 hp,260.000 km,belirtilmemis,takasa uygun degil,sahibinden,65.000 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,167.000 km,5 boyali,takasa uygun degil,sahibinden,92.500 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,260.000 km,belirtilmemis,takasa uygun,galeriden,81.500 TL
+nissan,micra,1.0 ig-t tekna,2021,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,0 km,belirtilmemis,takasa uygun,galeriden,304.000 TL
+nissan,micra,1.2 match,2018,benzin,otomatik,1198 cc,80 hp,40.000 km,belirtilmemis,takasa uygun,sahibinden,195.000 TL
+nissan,micra,1.2 match,2018,benzin,otomatik,1198 cc,80 hp,29.500 km,tamami orjinal,takasa uygun degil,sahibinden,200.000 TL
+nissan,maxima,2.0 qx,2004,lpg & benzin,otomatik,1995 cc,140 hp,255.000 km,belirtilmemis,takasa uygun,galeriden,106.000 TL
+nissan,micra,1.2 visia,2021,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,0 km,belirtilmemis,takasa uygun,galeriden,255.000 TL
+nissan,primera,1.6 comfort,2001,benzin,duz,1597 cc,100 hp,350.000 km,1 degisen,takasa uygun degil,sahibinden,70.000 TL
+nissan,primera,1.6 tekna plus,2004,lpg & benzin,duz,1596 cc,109 hp,212.000 km,belirtilmemis,takasa uygun degil,galeriden,88.000 TL
+nissan,micra,1.2 passion,2012,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,117.000 km,belirtilmemis,takasa uygun,galeriden,124.750 TL
+nissan,micra,1.2 match,2014,benzin,otomatik,1198 cc,80 hp,16.000 km,belirtilmemis,takasa uygun degil,galeriden,177.500 TL
+nissan,note,1.5 dci tekna,2012,dizel,duz,,,220.800 km,belirtilmemis,takasa uygun degil,sahibinden,165.000 TL
+nissan,micra,1.2 tekna,2010,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun degil,galeriden,121.000 TL
+nissan,micra,1.2 street,2017,benzin,otomatik,1198 cc,80 hp,55.500 km,belirtilmemis,takasa uygun degil,sahibinden,185.000 TL
+nissan,micra,1.2 passion,2013,benzin,otomatik,1198 cc,80 hp,115.000 km,belirtilmemis,takasa uygun,galeriden,159.750 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,80.000 km,3 boyali,takasa uygun,galeriden,177.900 TL
+nissan,micra,1.3 gx,1998,benzin,duz,1275 cc,75 hp,233.000 km,tamami boyali,takasa uygun degil,sahibinden,42.000 TL
+nissan,pulsar,1.5 tekna,2016,dizel,duz,1461 cc,110 hp,51.000 km,2 boyali,takasa uygun,galeriden,155.000 TL
+nissan,micra,1.2 passion,2010,benzin,otomatik,1240 cc,80 hp,75.000 km,1 degisen,takasa uygun degil,sahibinden,131.000 TL
+nissan,micra,1.2 street,2016,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,45.000 km,3 boyali,takasa uygun,yetkili bayiden,179.500 TL
+nissan,almera,1.5 visia,2006,lpg & benzin,duz,1498 cc,98 hp,220.000 km,belirtilmemis,takasa uygun degil,sahibinden,74.000 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,310.000 km,3 boyali,takasa uygun degil,sahibinden,65.000 TL
+nissan,sunny,1.6 slx,1995,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,370.000 km,belirtilmemis,takasa uygun degil,sahibinden,45.000 TL
+nissan,micra,1.2 passion,2006,benzin,otomatik,1240 cc,80 hp,151.000 km,belirtilmemis,takasa uygun degil,galeriden,115.900 TL
+nissan,micra,1.2 passion,2008,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,97.000 km,belirtilmemis,takasa uygun degil,galeriden,129.900 TL
+nissan,note,1.5 dci visia,2009,dizel,duz,1401 - 1600 cm3,76 - 100 hp,206.995 km,belirtilmemis,takasa uygun,galeriden,107.900 TL
+nissan,micra,1.2 tekna,2004,benzin,duz,1240 cc,80 hp,208.000 km,2 boyali,takasa uygun,sahibinden,85.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,150.000 km,11 boyali,takasa uygun degil,sahibinden,95.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,218.000 km,belirtilmemis,takasa uygun degil,sahibinden,81.000 TL
+nissan,note,1.6 tekna,2007,benzin,duz,1598 cc,110 hp,203.000 km,belirtilmemis,takasa uygun degil,sahibinden,75.000 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1498 cc,98 hp,219.000 km,4 degisen,takasa uygun degil,sahibinden,65.500 TL
+nissan,micra,1.2 passion,2013,benzin,duz,1198 cc,80 hp,91.000 km,1 degisen,takasa uygun,galeriden,117.750 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,79.136 km,3 boyali,takasa uygun,galeriden,177.900 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1240 cc,80 hp,100.000 km,belirtilmemis,takasa uygun degil,galeriden,120.000 TL
+nissan,micra,1.2 street,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,47.000 km,belirtilmemis,takasa uygun,galeriden,159.000 TL
+nissan,micra,1.2 match,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,113.750 km,3 boyali,takasa uygun,galeriden,182.500 TL
+nissan,primera,1.8 luxury,2000,lpg & benzin,duz,1769 cc,114 hp,430.000 km,belirtilmemis,takasa uygun degil,sahibinden,67.000 TL
+nissan,almera,1.5 tekna,2005,benzin,duz,1498 cc,98 hp,223.500 km,"2 degisen, 5 boyali",takasa uygun degil,sahibinden,75.000 TL
+nissan,micra,1.5 dci passion,2006,dizel,duz,1461 cc,82 hp,198.000 km,belirtilmemis,takasa uygun degil,sahibinden,93.500 TL
+nissan,almera,1.5 comfort,2001,lpg & benzin,duz,1497 cc,90 hp,310.000 km,"1 degisen, 2 boyali",takasa uygun degil,sahibinden,63.550 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,288.000 km,"2 degisen, 3 boyali",takasa uygun degil,sahibinden,82.500 TL
+nissan,almera,1.5 comfort,2000,lpg & benzin,duz,1497 cc,90 hp,290.000 km,"2 degisen, 10 boyali",takasa uygun degil,sahibinden,65.000 TL
+nissan,micra,1.2 passion,2012,benzin,otomatik,1198 cc,80 hp,95.000 km,tamami orjinal,takasa uygun degil,sahibinden,160.000 TL
+nissan,micra,1.2 street,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,28.800 km,belirtilmemis,takasa uygun,galeriden,172.750 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1597 cc,100 hp,325.000 km,belirtilmemis,takasa uygun degil,galeriden,63.500 TL
+nissan,micra,1.2 passion,2009,lpg & benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,163.000 km,belirtilmemis,takasa uygun,galeriden,127.900 TL
+nissan,micra,1.2 passion,2010,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,166.000 km,belirtilmemis,takasa uygun,galeriden,128.900 TL
+nissan,almera,1.8 luxury,2000,lpg & benzin,otomatik,1769 cc,114 hp,315.000 km,5 boyali,takasa uygun,sahibinden,75.000 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,158.000 km,belirtilmemis,takasa uygun degil,galeriden,85.000 TL
+nissan,micra,1.3 gx,1998,benzin,otomatik,1201 - 1400 cm3,51 - 75 hp,168.000 km,belirtilmemis,takasa uygun,galeriden,66.750 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1498 cc,98 hp,191.000 km,tamami orjinal,takasa uygun degil,sahibinden,92.000 TL
+nissan,almera,1.5 tekna,2007,lpg & benzin,duz,1498 cc,98 hp,111.000 km,4 boyali,takasa uygun degil,sahibinden,98.000 TL
+nissan,micra,1.2 tekna,2011,benzin,otomatik,1198 cc,80 hp,122.000 km,"1 degisen, 7 boyali",takasa uygun degil,sahibinden,126.000 TL
+nissan,micra,1.2 match,2015,benzin,otomatik,1198 cc,80 hp,20.000 km,belirtilmemis,takasa uygun degil,sahibinden,200.000 TL
+nissan,micra,1.2 tekna,2009,benzin,otomatik,1240 cc,80 hp,69.000 km,belirtilmemis,takasa uygun degil,galeriden,116.000 TL
+nissan,micra,1.2 street,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,25.000 km,belirtilmemis,takasa uygun,galeriden,189.000 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,370.000 km,1 boyali,takasa uygun,galeriden,60.000 TL
+nissan,note,1.5 dci tekna,2014,dizel,duz,1461 cc,90 hp,129.000 km,belirtilmemis,takasa uygun,sahibinden,145.000 TL
+nissan,sunny,1.6 ex,1995,lpg & benzin,otomatik,1401 - 1600 cm3,101 - 125 hp,358.800 km,tamami boyali,takasa uygun,sahibinden,45.000 TL
+nissan,primera,1.6 tekna plus,2006,lpg & benzin,duz,,,303.000 km,belirtilmemis,takasa uygun,sahibinden,79.000 TL
+nissan,primera,1.6 tekna,2007,lpg & benzin,duz,1596 cc,109 hp,317.000 km,belirtilmemis,takasa uygun degil,sahibinden,79.900 TL
+nissan,micra,1.2 street,2015,benzin,otomatik,1198 cc,80 hp,49.000 km,belirtilmemis,takasa uygun,galeriden,157.900 TL
+nissan,micra,1.2 street,2014,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,72.000 km,belirtilmemis,takasa uygun,galeriden,136.900 TL
+nissan,almera,1.6 gx,2001,lpg & benzin,otomatik,,,138.500 km,belirtilmemis,takasa uygun degil,sahibinden,89.000 TL
+nissan,almera,1.5 luxury,2001,benzin,duz,1497 cc,90 hp,206.000 km,"1 degisen, 2 boyali",takasa uygun degil,sahibinden,73.900 TL
+nissan,micra,1.2 tekna,2009,benzin,otomatik,1240 cc,80 hp,100.000 km,belirtilmemis,takasa uygun degil,galeriden,119.000 TL
+nissan,micra,1.2 passion,2006,lpg & benzin,duz,1240 cc,80 hp,177.000 km,belirtilmemis,takasa uygun,galeriden,89.900 TL
+nissan,micra,1.2 punch,2012,benzin,duz,1198 cc,80 hp,124.700 km,belirtilmemis,takasa uygun,galeriden,117.900 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,268.000 km,belirtilmemis,takasa uygun,galeriden,67.750 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,251.000 km,"2 degisen, 4 boyali",takasa uygun degil,sahibinden,69.000 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,238.900 km,"2 degisen, 4 boyali",takasa uygun,galeriden,80.000 TL
+nissan,note,1.4 visia,2009,benzin,duz,1201 - 1400 cm3,76 - 100 hp,224.000 km,belirtilmemis,takasa uygun,galeriden,82.000 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,330.000 km,belirtilmemis,takasa uygun,galeriden,57.500 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,268.000 km,3 boyali,takasa uygun degil,sahibinden,80.500 TL
+nissan,note,1.5 dci tekna,2011,dizel,duz,1461 cc,103 hp,192.000 km,"1 degisen, 2 boyali",takasa uygun degil,sahibinden,117.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,405.000 km,tamami boyali,takasa uygun,galeriden,52.000 TL
+nissan,micra,1.2 passion,2012,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,110.600 km,belirtilmemis,takasa uygun degil,galeriden,130.900 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,190.000 km,belirtilmemis,takasa uygun,galeriden,115.750 TL
+nissan,primera,1.6 visia,2003,lpg & benzin,duz,1401 - 1600 cm3,101 - 125 hp,162.000 km,belirtilmemis,takasa uygun,galeriden,85.000 TL
+nissan,micra,1.2 passion,2011,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,120.000 km,"1 degisen, 3 boyali",takasa uygun degil,galeriden,140.000 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1597 cc,100 hp,242.000 km,2 degisen,takasa uygun degil,sahibinden,58.000 TL
+nissan,note,1.5 dci tekna,2011,dizel,duz,1461 cc,103 hp,118.000 km,belirtilmemis,takasa uygun degil,sahibinden,128.000 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,287.000 km,belirtilmemis,takasa uygun degil,sahibinden,62.000 TL
+nissan,almera,1.6 slx,2001,lpg & benzin,otomatik,,,295.000 km,belirtilmemis,takasa uygun degil,sahibinden,75.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,291.000 km,belirtilmemis,takasa uygun,galeriden,63.000 TL
+nissan,note,1.6 tekna,2007,lpg & benzin,otomatik,1598 cc,110 hp,138.000 km,belirtilmemis,takasa uygun,galeriden,112.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,214.212 km,belirtilmemis,takasa uygun degil,sahibinden,75.000 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,219.000 km,belirtilmemis,takasa uygun,galeriden,73.500 TL
+nissan,note,1.5 dci platinum,2015,dizel,duz,1461 cc,90 hp,113.000 km,2 boyali,takasa uygun degil,sahibinden,215.000 TL
+nissan,maxima,2.0 qx,1998,benzin,duz,1200 cm3' e kadar,,283.000 km,belirtilmemis,takasa uygun,sahibinden,45.000 TL
+nissan,micra,1.2 passion,2013,lpg & benzin,duz,1198 cc,80 hp,75.000 km,1 boyali,takasa uygun,galeriden,135.000 TL
+nissan,primera,1.6 tekna,2006,lpg & benzin,duz,1596 cc,109 hp,162.500 km,"2 degisen, 8 boyali",takasa uygun degil,sahibinden,85.750 TL
+nissan,micra,1.2 match,2017,benzin,otomatik,1198 cc,80 hp,27.000 km,tamami orjinal,takasa uygun degil,sahibinden,205.000 TL
+nissan,almera,1.6 sr,2000,lpg & benzin,duz,1597 cc,100 hp,279.000 km,belirtilmemis,takasa uygun,galeriden,72.500 TL
+nissan,note,1.5 dci tekna pack,2013,dizel,duz,1461 cc,103 hp,213.728 km,belirtilmemis,takasa uygun,galeriden,120.000 TL
+nissan,primera,1.6 visia,2005,lpg & benzin,duz,1596 cc,109 hp,315.000 km,belirtilmemis,takasa uygun degil,sahibinden,80.000 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,281.000 km,belirtilmemis,takasa uygun degil,sahibinden,75.000 TL
+nissan,micra,1.2 tekna,2004,benzin,otomatik,1240 cc,80 hp,189.000 km,"1 degisen, 6 boyali",takasa uygun degil,sahibinden,108.000 TL
+nissan,primera,1.6 tekna,2003,lpg & benzin,duz,1401 - 1600 cm3,101 - 125 hp,296.000 km,belirtilmemis,takasa uygun,galeriden,84.900 TL
+nissan,micra,1.2 match,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,46.500 km,belirtilmemis,takasa uygun,galeriden,167.750 TL
+nissan,sunny,1.6 ex,1991,lpg & benzin,duz,1597 cc,90 hp,350.000 km,belirtilmemis,takasa uygun degil,sahibinden,28.500 TL
+nissan,laurel altima,2.0,1992,lpg & benzin,otomatik,1998 cc,125 hp,345.000 km,belirtilmemis,takasa uygun,sahibinden,38.000 TL
+nissan,maxima,2.0 qx,1999,lpg & benzin,duz,1801 - 2000 cm3,126 - 150 hp,326.000 km,1 boyali,takasa uygun,galeriden,65.000 TL
+nissan,primera,1.6 gx,1997,lpg & benzin,duz,1597 cc,100 hp,280.000 km,belirtilmemis,takasa uygun degil,sahibinden,60.000 TL
+nissan,note,1.5 dci visia,2013,dizel,duz,1461 cc,86 hp,125.000 km,4 boyali,takasa uygun degil,sahibinden,120.000 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,22.500 km,belirtilmemis,takasa uygun,galeriden,192.900 TL
+nissan,primera,2.0 tekna,2005,lpg & benzin,otomatik,1998 cc,140 hp,267.000 km,belirtilmemis,takasa uygun,galeriden,88.000 TL
+nissan,micra,1.3 gx,1997,benzin,yari otomatik,1201 - 1400 cm3,51 - 75 hp,196.000 km,belirtilmemis,takasa uygun,galeriden,47.000 TL
+nissan,micra,1.5 dci mood,2008,dizel,duz,1401 - 1600 cm3,76 - 100 hp,284.000 km,belirtilmemis,takasa uygun,galeriden,67.900 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,251.000 km,2 boyali,takasa uygun,sahibinden,85.000 TL
+nissan,primera,1.6 tekna plus,2004,benzin,duz,1596 cc,109 hp,316.000 km,belirtilmemis,takasa uygun degil,sahibinden,73.000 TL
+nissan,micra,1.5 dci passion,2006,dizel,duz,1461 cc,82 hp,180.000 km,3 boyali,takasa uygun degil,sahibinden,90.500 TL
+nissan,350 z,coupe,2005,benzin,duz,3001 - 3500 cm3,276 - 300 hp,130.000 km,belirtilmemis,takasa uygun,galeriden,655.000 TL
+nissan,maxima,2.0 qx,1997,lpg & benzin,otomatik,1801 - 2000 cm3,126 - 150 hp,295.000 km,belirtilmemis,takasa uygun degil,galeriden,72.500 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,454.000 km,belirtilmemis,takasa uygun,galeriden,40.000 TL
+nissan,micra,1.2 visia,2005,benzin,duz,1201 - 1400 cm3,76 - 100 hp,142.000 km,7 boyali,takasa uygun degil,galeriden,88.500 TL
+nissan,note,1.5 dci visia,2011,dizel,duz,1461 cc,86 hp,134.500 km,7 boyali,takasa uygun degil,yetkili bayiden,107.500 TL
+nissan,micra,1.2 passion,2008,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,105.000 km,belirtilmemis,takasa uygun,galeriden,98.750 TL
+nissan,note,1.6 tekna,2006,benzin,duz,1598 cc,110 hp,127.000 km,tamami orjinal,takasa uygun degil,sahibinden,104.750 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,193.000 km,belirtilmemis,takasa uygun degil,sahibinden,83.500 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,180.000 km,belirtilmemis,takasa uygun degil,sahibinden,86.000 TL
+nissan,primera,1.6 visia,2006,lpg & benzin,duz,1596 cc,109 hp,323.000 km,belirtilmemis,takasa uygun,galeriden,92.900 TL
+nissan,note,1.5 dci tekna,2008,dizel,duz,1461 cc,86 hp,185.000 km,6 boyali,takasa uygun,sahibinden,96.750 TL
+nissan,micra,1.2 passion,2012,benzin,duz,1198 cc,80 hp,180.000 km,tamami orjinal,takasa uygun degil,sahibinden,112.000 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,300.000 km,"2 degisen, 1 boyali",takasa uygun degil,sahibinden,65.000 TL
+nissan,almera,1.5 comfort,2000,lpg & benzin,duz,1497 cc,90 hp,270.000 km,"1 degisen, 8 boyali",takasa uygun degil,sahibinden,73.000 TL
+nissan,primera,1.8 luxury,2001,lpg & benzin,duz,1769 cc,114 hp,370.000 km,belirtilmemis,takasa uygun degil,sahibinden,48.000 TL
+nissan,maxima,2.0 qx,1998,lpg & benzin,otomatik,1801 - 2000 cm3,126 - 150 hp,430.000 km,"1 degisen, 12 boyali",takasa uygun degil,sahibinden,65.000 TL
+nissan,note,1.5 dci tekna,2010,dizel,duz,1461 cc,86 hp,208.000 km,belirtilmemis,takasa uygun,galeriden,108.000 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,264.000 km,belirtilmemis,takasa uygun degil,galeriden,78.750 TL
+nissan,gt-r,r35,2021,benzin,otomatik,3799 cc,485 hp,0 km,belirtilmemis,takasa uygun,galeriden,3.630.000 TL
+nissan,micra,1.2 tekna,2004,lpg & benzin,duz,,,218.000 km,"1 degisen, 6 boyali",takasa uygun,sahibinden,87.500 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,56.000 km,belirtilmemis,takasa uygun,galeriden,107.000 TL
+nissan,note,1.4 visia,2008,benzin,duz,1386 cc,88 hp,126.000 km,"1 degisen, 3 boyali",takasa uygun degil,sahibinden,108.000 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1498 cc,98 hp,220.000 km,8 boyali,takasa uygun,sahibinden,75.000 TL
+nissan,note,1.5 dci tekna,2010,dizel,duz,1461 cc,103 hp,298.000 km,4 boyali,takasa uygun,galeriden,106.500 TL
+nissan,sunny,1.6 slx,1995,lpg & benzin,otomatik,1401 - 1600 cm3,101 - 125 hp,180.000 km,"1 degisen, 12 boyali",takasa uygun,sahibinden,55.000 TL
+nissan,micra,1.2 tekna,2008,benzin,duz,1240 cc,80 hp,168.888 km,10 boyali,takasa uygun degil,sahibinden,98.000 TL
+nissan,almera,1.5 visia,2006,lpg & benzin,duz,1498 cc,98 hp,184.000 km,3 boyali,takasa uygun degil,sahibinden,74.000 TL
+nissan,micra,1.2 passion,2008,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,126.000 km,belirtilmemis,takasa uygun degil,galeriden,128.900 TL
+nissan,note,1.2 visia,2014,benzin,duz,1200 cm3' e kadar,76 - 100 hp,111.000 km,"2 degisen, 3 boyali",takasa uygun,sahibinden,130.000 TL
+nissan,pulsar,1.5 tekna,2016,dizel,duz,1461 cc,110 hp,240.000 km,belirtilmemis,takasa uygun degil,sahibinden,152.500 TL
+nissan,micra,1.2 match,2018,benzin,otomatik,1198 cc,80 hp,40.000 km,belirtilmemis,takasa uygun degil,sahibinden,190.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,360.000 km,belirtilmemis,takasa uygun degil,sahibinden,52.000 TL
+nissan,primera,1.6 slx,1998,benzin,duz,1597 cc,100 hp,160.000 km,belirtilmemis,takasa uygun degil,sahibinden,70.000 TL
+nissan,micra,1.2 mood,2007,lpg & benzin,duz,1240 cc,80 hp,220.000 km,tamami orjinal,takasa uygun degil,sahibinden,88.500 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,228.000 km,tamami boyali,takasa uygun,sahibinden,39.000 TL
+nissan,micra,1.2 passion,2006,benzin,duz,1240 cc,80 hp,195.000 km,3 boyali,takasa uygun degil,sahibinden,92.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,157.000 km,3 boyali,takasa uygun degil,sahibinden,83.000 TL
+nissan,micra,1.2 passion,2008,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun,galeriden,121.000 TL
+nissan,micra,1.2 passion,2007,benzin,otomatik,1240 cc,80 hp,136.500 km,belirtilmemis,takasa uygun degil,galeriden,129.000 TL
+nissan,almera,1.5 visia,2006,lpg & benzin,duz,1498 cc,98 hp,214.000 km,3 boyali,takasa uygun degil,sahibinden,82.000 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,247.000 km,tamami orjinal,takasa uygun degil,sahibinden,69.000 TL
+nissan,note,1.4 tekna,2010,lpg & benzin,duz,1386 cc,88 hp,138.000 km,belirtilmemis,takasa uygun degil,sahibinden,125.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,76.000 km,belirtilmemis,takasa uygun,galeriden,101.000 TL
+nissan,micra,1.2 tekna,2006,lpg & benzin,duz,1240 cc,80 hp,191.287 km,belirtilmemis,takasa uygun,sahibinden,88.000 TL
+nissan,micra,1.5 dci passion,2006,dizel,duz,1461 cc,82 hp,250.000 km,tamami boyali,takasa uygun degil,sahibinden,69.000 TL
+nissan,primera,2.0 elegance,2000,lpg & benzin,otomatik,1998 cc,140 hp,142.000 km,belirtilmemis,takasa uygun degil,sahibinden,70.000 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,240.000 km,12 boyali,takasa uygun degil,sahibinden,63.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,311.000 km,tamami orjinal,takasa uygun degil,sahibinden,55.000 TL
+nissan,note,1.5 dci visia,2014,dizel,duz,1461 cc,90 hp,69.700 km,belirtilmemis,takasa uygun degil,sahibinden,140.000 TL
+nissan,note,1.6 tekna,2012,lpg & benzin,otomatik,1598 cc,110 hp,151.000 km,"3 degisen, 3 boyali",takasa uygun degil,galeriden,136.500 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,270.000 km,belirtilmemis,takasa uygun,galeriden,64.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,252.000 km,2 boyali,takasa uygun degil,sahibinden,78.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,53.000 km,belirtilmemis,takasa uygun degil,galeriden,108.000 TL
+nissan,micra,1.2 passion,2008,lpg & benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,131.000 km,belirtilmemis,takasa uygun degil,galeriden,122.900 TL
+nissan,micra,1.2 tekna,2004,benzin,otomatik,1240 cc,80 hp,142.000 km,belirtilmemis,takasa uygun degil,galeriden,112.900 TL
+nissan,maxima,2.0 qx,1997,lpg & benzin,otomatik,1801 - 2000 cm3,176 - 200 hp,477.000 km,10 boyali,takasa uygun,galeriden,62.000 TL
+nissan,primera,1.6 tekna,2006,lpg & benzin,duz,1596 cc,109 hp,159.000 km,5 boyali,takasa uygun degil,sahibinden,105.000 TL
+nissan,note,1.2 tekna,2013,lpg & benzin,duz,1198 cc,80 hp,130.000 km,belirtilmemis,takasa uygun degil,sahibinden,100.000 TL
+nissan,maxima,2.0 qx,1996,lpg & benzin,duz,1995 cc,140 hp,335.000 km,belirtilmemis,takasa uygun,galeriden,82.750 TL
+nissan,micra,1.2 match,2014,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,78.000 km,belirtilmemis,takasa uygun degil,galeriden,160.750 TL
+nissan,sunny,1.6 slx,1991,lpg & benzin,duz,1597 cc,90 hp,312.000 km,belirtilmemis,takasa uygun degil,galeriden,43.000 TL
+nissan,micra,1.2 street,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,34.221 km,belirtilmemis,takasa uygun,galeriden,158.000 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,302.000 km,belirtilmemis,takasa uygun,galeriden,53.500 TL
+nissan,sunny,1.6 ex,1995,lpg & benzin,duz,1597 cc,102 hp,400.000 km,belirtilmemis,takasa uygun degil,sahibinden,49.000 TL
+nissan,primera,1.6 gx,1997,lpg & benzin,duz,1597 cc,100 hp,238.000 km,5 boyali,takasa uygun degil,sahibinden,57.000 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,208.000 km,belirtilmemis,takasa uygun degil,sahibinden,82.500 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,58.000 km,belirtilmemis,takasa uygun degil,galeriden,118.000 TL
+nissan,micra,1.2 passion,2009,benzin,otomatik,1240 cc,80 hp,89.000 km,belirtilmemis,takasa uygun degil,galeriden,120.000 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1240 cc,80 hp,580.003 km,belirtilmemis,takasa uygun degil,galeriden,119.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun,galeriden,121.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,99.000 km,belirtilmemis,takasa uygun degil,galeriden,118.000 TL
+nissan,micra,1.2 tekna,2007,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun degil,galeriden,119.999 TL
+nissan,micra,1.2 passion,2007,benzin,otomatik,1240 cc,80 hp,96.000 km,belirtilmemis,takasa uygun degil,galeriden,107.000 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,25.000 km,belirtilmemis,takasa uygun degil,galeriden,115.000 TL
+nissan,micra,1.2 passion,2008,lpg & benzin,otomatik,1240 cc,80 hp,58.000 km,belirtilmemis,takasa uygun degil,galeriden,116.000 TL
+nissan,micra,1.2 passion,2007,benzin,otomatik,1240 cc,80 hp,102.000 km,belirtilmemis,takasa uygun,galeriden,117.000 TL
+nissan,maxima,2.0 qx,1995,lpg & benzin,otomatik,,,249.000 km,belirtilmemis,takasa uygun degil,sahibinden,58.400 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1240 cc,80 hp,100.000 km,belirtilmemis,takasa uygun degil,galeriden,101.000 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,,,370.000 km,belirtilmemis,takasa uygun,sahibinden,48.000 TL
+nissan,primera,1.6 visia,2003,lpg & benzin,duz,1596 cc,109 hp,330.000 km,belirtilmemis,takasa uygun,sahibinden,67.500 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,100 hp,178.000 km,1 boyali,takasa uygun degil,sahibinden,94.500 TL
+nissan,100 nx,nx,1992,lpg & benzin,duz,1597 cc,90 hp,325.000 km,belirtilmemis,takasa uygun degil,galeriden,50.000 TL
+nissan,micra,1.2 tekna,2011,benzin,duz,1198 cc,80 hp,79.000 km,belirtilmemis,takasa uygun,galeriden,119.000 TL
+nissan,pulsar,1.2 visia,2016,benzin,duz,1197 cc,115 hp,36.000 km,belirtilmemis,takasa uygun,sahibinden,145.000 TL
+nissan,micra,1.2 match,2017,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,53.748 km,belirtilmemis,takasa uygun,galeriden,165.900 TL
+nissan,primera,1.6 slx,1999,lpg & benzin,duz,1597 cc,100 hp,367.000 km,belirtilmemis,takasa uygun,sahibinden,58.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,216.000 km,belirtilmemis,takasa uygun,sahibinden,73.500 TL
+nissan,micra,1.2 tekna,2004,lpg & benzin,duz,1240 cc,80 hp,190.000 km,3 boyali,takasa uygun degil,sahibinden,81.750 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,322.000 km,belirtilmemis,takasa uygun,sahibinden,65.000 TL
+nissan,micra,1.3 gx,1996,lpg & benzin,duz,1201 - 1400 cm3,76 - 100 hp,300.000 km,belirtilmemis,takasa uygun,sahibinden,42.500 TL
+nissan,micra,1.2 match,2016,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,82.000 km,belirtilmemis,takasa uygun,galeriden,181.000 TL
+nissan,micra,1.2 passion,2007,benzin,otomatik,1240 cc,80 hp,65.000 km,belirtilmemis,takasa uygun degil,galeriden,125.000 TL
+nissan,sunny,1.6 ex,1993,lpg & benzin,duz,1597 cc,90 hp,330.000 km,belirtilmemis,takasa uygun,galeriden,40.000 TL
+nissan,micra,1.2 tekna,2004,benzin,otomatik,1240 cc,80 hp,137.000 km,belirtilmemis,takasa uygun degil,galeriden,115.900 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,350.000 km,10 boyali,takasa uygun degil,galeriden,63.500 TL
+nissan,primera,1.6 gx,1997,lpg & benzin,duz,1597 cc,100 hp,247.000 km,"1 degisen, 11 boyali",takasa uygun,sahibinden,55.000 TL
+nissan,micra,1.2 street,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,59.800 km,belirtilmemis,takasa uygun,galeriden,159.900 TL
+nissan,note,1.5 dci tekna,2008,dizel,duz,1461 cc,86 hp,305.000 km,belirtilmemis,takasa uygun degil,sahibinden,66.500 TL
+nissan,primera,1.6 visia,2003,lpg & benzin,duz,1401 - 1600 cm3,101 - 125 hp,280.000 km,belirtilmemis,takasa uygun,galeriden,87.000 TL
+nissan,micra,1.2 tekna,2012,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,130.000 km,belirtilmemis,takasa uygun,galeriden,117.950 TL
+nissan,micra,1.2 tekna pack,2011,benzin,duz,1198 cc,80 hp,80.000 km,tamami orjinal,takasa uygun degil,sahibinden,123.750 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1240 cc,80 hp,110.000 km,belirtilmemis,takasa uygun,galeriden,31.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,324.000 km,belirtilmemis,takasa uygun degil,sahibinden,68.000 TL
+nissan,micra,1.2 street,2014,benzin,otomatik,1198 cc,80 hp,89.000 km,belirtilmemis,takasa uygun,galeriden,147.900 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,138.000 km,belirtilmemis,takasa uygun degil,galeriden,114.900 TL
+nissan,micra,1.5 dci passion,2007,dizel,duz,1461 cc,82 hp,205.000 km,belirtilmemis,takasa uygun,sahibinden,65.000 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,236.000 km,belirtilmemis,takasa uygun,sahibinden,74.000 TL
+nissan,micra,1.2 tekna,2011,benzin,otomatik,1198 cc,80 hp,90.750 km,tamami orjinal,takasa uygun degil,sahibinden,158.850 TL
+nissan,micra,1.2 tekna,2006,benzin,otomatik,1240 cc,80 hp,68.000 km,belirtilmemis,takasa uygun,galeriden,105.000 TL
+nissan,micra,1.2 platinum,2012,benzin,otomatik,1198 cc,80 hp,87.400 km,"1 degisen, 4 boyali",takasa uygun degil,sahibinden,129.750 TL
+nissan,almera,1.8 luxury,2001,lpg & benzin,otomatik,1769 cc,114 hp,271.000 km,7 boyali,takasa uygun degil,sahibinden,85.000 TL
+nissan,micra,1.3 gx,1997,lpg & benzin,duz,1275 cc,75 hp,170.000 km,tamami boyali,takasa uygun degil,sahibinden,45.000 TL
+nissan,micra,1.2 passion,2011,benzin,duz,1240 cc,80 hp,112.000 km,belirtilmemis,takasa uygun,sahibinden,96.000 TL
+nissan,micra,1.2 mood,2006,lpg & benzin,duz,1240 cc,80 hp,152.000 km,5 boyali,takasa uygun,sahibinden,81.000 TL
+nissan,micra,1.4 tekna,2004,lpg & benzin,otomatik,1386 cc,88 hp,99.000 km,belirtilmemis,takasa uygun degil,galeriden,112.900 TL
+nissan,micra,1.3 gx,1997,benzin,yari otomatik,1201 - 1400 cm3,51 - 75 hp,230.000 km,belirtilmemis,takasa uygun,galeriden,66.750 TL
+nissan,micra,1.2 tekna,2008,benzin,otomatik,1240 cc,80 hp,100.000 km,belirtilmemis,takasa uygun degil,galeriden,95.000 TL
+nissan,almera,1.5 visia,2006,benzin,duz,1498 cc,98 hp,157.000 km,1 degisen,takasa uygun degil,sahibinden,79.000 TL
+nissan,primera,1.6 tekna,2006,lpg & benzin,duz,1596 cc,109 hp,200.000 km,tamami orjinal,takasa uygun,sahibinden,92.500 TL
+nissan,maxima,2.0 qx,1998,lpg & benzin,otomatik,2001 - 2500 cm3,151 - 175 hp,290.000 km,belirtilmemis,takasa uygun,galeriden,72.000 TL
+nissan,almera,1.5 luxury,2001,lpg & benzin,duz,1497 cc,90 hp,208.000 km,belirtilmemis,takasa uygun degil,sahibinden,73.000 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,209.555 km,2 boyali,takasa uygun degil,sahibinden,72.000 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,360.000 km,1 degisen,takasa uygun,galeriden,50.000 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,338.000 km,belirtilmemis,takasa uygun,sahibinden,45.900 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,218.000 km,"1 degisen, 2 boyali",takasa uygun,sahibinden,66.000 TL
+nissan,micra,1.5 dci mood,2006,dizel,duz,1461 cc,82 hp,250.000 km,belirtilmemis,takasa uygun,galeriden,64.500 TL
+nissan,micra,1.2 tekna,2004,benzin,duz,1240 cc,80 hp,173.000 km,2 boyali,takasa uygun degil,sahibinden,82.500 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1498 cc,98 hp,214.000 km,3 boyali,takasa uygun degil,sahibinden,72.500 TL
+nissan,micra,1.2 mood,2006,lpg & benzin,duz,1240 cc,65 hp,297.000 km,"1 degisen, 11 boyali",takasa uygun degil,sahibinden,78.000 TL
+nissan,note,1.5 dci tekna,2012,dizel,duz,1461 cc,103 hp,180.000 km,1 boyali,takasa uygun degil,sahibinden,165.000 TL
+nissan,micra,1.2 tekna,2011,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,98.000 km,belirtilmemis,takasa uygun,galeriden,150.000 TL
+nissan,micra,1.2 tekna,2006,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,115.000 km,"3 degisen, 6 boyali",takasa uygun,galeriden,94.950 TL
+nissan,sunny,1.6 ex,1991,lpg & benzin,duz,1597 cc,90 hp,387.000 km,belirtilmemis,takasa uygun degil,galeriden,38.000 TL
+nissan,primera,2.0 se,1998,lpg & benzin,duz,1998 cc,130 hp,285.000 km,"2 degisen, 10 boyali",takasa uygun degil,sahibinden,52.500 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1201 - 1400 cm3,76 - 100 hp,171.000 km,1 boyali,takasa uygun degil,sahibinden,79.000 TL
+nissan,almera,1.5 tekna,2008,lpg & benzin,duz,1498 cc,98 hp,202.000 km,belirtilmemis,takasa uygun,galeriden,72.000 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,182.000 km,"1 degisen, 7 boyali",takasa uygun degil,sahibinden,83.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,330.000 km,2 degisen,takasa uygun degil,sahibinden,57.500 TL
+nissan,primera,2.0 se,1998,lpg & benzin,otomatik,1801 - 2000 cm3,101 - 125 hp,358.000 km,"2 degisen, 11 boyali",takasa uygun degil,sahibinden,62.000 TL
+nissan,micra,1.2 street,2016,benzin,duz,1198 cc,80 hp,47.000 km,belirtilmemis,takasa uygun degil,sahibinden,160.000 TL
+nissan,primera,2.0 elegance,2001,lpg & benzin,yari otomatik,1801 - 2000 cm3,126 - 150 hp,273.658 km,belirtilmemis,takasa uygun,galeriden,62.000 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,290.000 km,belirtilmemis,takasa uygun degil,sahibinden,84.000 TL
+nissan,micra,1.2 passion,2011,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,207.500 km,6 boyali,takasa uygun,galeriden,115.000 TL
+nissan,micra,1.2 match,2016,benzin,otomatik,1198 cc,80 hp,22.400 km,1 boyali,takasa uygun degil,sahibinden,188.900 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,223.000 km,"2 degisen, 3 boyali",takasa uygun,galeriden,72.950 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,265.000 km,belirtilmemis,takasa uygun,galeriden,70.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,225.000 km,belirtilmemis,takasa uygun degil,sahibinden,78.500 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,272.000 km,belirtilmemis,takasa uygun,galeriden,76.000 TL
+nissan,note,1.5 dci tekna,2008,dizel,duz,1461 cc,86 hp,214.000 km,belirtilmemis,takasa uygun degil,sahibinden,87.500 TL
+nissan,almera,1.5 tekna,2005,benzin,duz,1498 cc,98 hp,214.000 km,"2 degisen, 10 boyali",takasa uygun degil,sahibinden,62.000 TL
+nissan,note,1.6 visia,2015,benzin,duz,1598 cc,110 hp,74.000 km,belirtilmemis,takasa uygun degil,sahibinden,213.000 TL
+nissan,micra,1.2 tekna,2005,lpg & benzin,duz,1240 cc,80 hp,194.000 km,"1 degisen, 6 boyali",takasa uygun,sahibinden,77.400 TL
+nissan,micra,1.2 tekna,2005,benzin,duz,1240 cc,80 hp,87.000 km,"2 degisen, 7 boyali",takasa uygun degil,sahibinden,82.000 TL
+nissan,maxima,2.0 qx,1996,lpg & benzin,duz,1995 cc,140 hp,457.000 km,belirtilmemis,takasa uygun degil,sahibinden,50.000 TL
+nissan,note,1.5 dci tekna,2008,dizel,duz,1461 cc,86 hp,187.000 km,belirtilmemis,takasa uygun,sahibinden,99.000 TL
+nissan,micra,1.0 ig-t platinum premium,2020,benzin,yari otomatik,,,29.900 km,tamami orjinal,takasa uygun degil,sahibinden,254.500 TL
+nissan,primera,1.6 visia,2006,lpg & benzin,duz,1596 cc,109 hp,224.000 km,belirtilmemis,takasa uygun degil,sahibinden,85.000 TL
+nissan,micra,1.2 tekna,2007,lpg & benzin,otomatik,1240 cc,80 hp,195.000 km,2 degisen,takasa uygun,sahibinden,85.000 TL
+nissan,almera,1.5 tekna,2007,lpg & benzin,duz,1498 cc,98 hp,238.000 km,belirtilmemis,takasa uygun,sahibinden,85.000 TL
+nissan,pulsar,1.2 tekna,2017,benzin,otomatik,1197 cc,115 hp,25.000 km,tamami orjinal,takasa uygun degil,sahibinden,210.000 TL
+nissan,note,1.5 dci visia,2006,benzin,duz,,,242.500 km,belirtilmemis,takasa uygun degil,sahibinden,95.750 TL
+nissan,primera,1.6 tekna,2006,lpg & benzin,duz,1596 cc,109 hp,192.000 km,tamami boyali,takasa uygun,sahibinden,60.000 TL
+nissan,micra,1.2 tekna,2003,benzin,otomatik,1240 cc,80 hp,137.000 km,3 degisen,takasa uygun degil,sahibinden,96.000 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,255.000 km,9 boyali,takasa uygun degil,sahibinden,88.500 TL
+nissan,primera,1.6 visia,2004,lpg & benzin,duz,1596 cc,109 hp,256.000 km,tamami boyali,takasa uygun,sahibinden,70.000 TL
+nissan,primera,1.6 visia,2003,lpg & benzin,duz,1596 cc,109 hp,219.000 km,"1 degisen, 9 boyali",takasa uygun degil,sahibinden,76.000 TL
+nissan,micra,1.2 passion,2010,benzin,otomatik,1240 cc,80 hp,92.000 km,tamami orjinal,takasa uygun degil,sahibinden,140.000 TL
+nissan,note,1.6 tekna,2006,benzin,duz,1598 cc,110 hp,125.000 km,belirtilmemis,takasa uygun degil,sahibinden,112.000 TL
+nissan,nx coupe,1.6,1991,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,278.000 km,belirtilmemis,takasa uygun,galeriden,55.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,185.000 km,4 boyali,takasa uygun,sahibinden,92.000 TL
+nissan,micra,1.2 tekna,2007,lpg & benzin,otomatik,1240 cc,80 hp,166.000 km,belirtilmemis,takasa uygun,galeriden,119.750 TL
+nissan,micra,1.2 passion,2007,benzin,duz,1240 cc,80 hp,174.500 km,"1 degisen, 4 boyali",takasa uygun degil,sahibinden,89.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,308.000 km,belirtilmemis,takasa uygun,sahibinden,70.000 TL
+nissan,primera,1.6 lx,1992,lpg & benzin,duz,1597 cc,90 hp,330.000 km,1 boyali,takasa uygun degil,sahibinden,52.000 TL
+nissan,primera,2.0 se,1995,lpg & benzin,duz,,,192.000 km,belirtilmemis,takasa uygun degil,sahibinden,39.900 TL
+nissan,maxima,2.0 qx,2004,lpg & benzin,otomatik,1995 cc,140 hp,252.000 km,"2 degisen, 9 boyali",takasa uygun,galeriden,111.900 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,370.000 km,tamami boyali,takasa uygun degil,sahibinden,65.000 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,290.000 km,belirtilmemis,takasa uygun,sahibinden,77.500 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,260.000 km,"2 degisen, 6 boyali",takasa uygun,sahibinden,48.000 TL
+nissan,almera,1.5 comfort,2001,lpg & benzin,duz,1497 cc,90 hp,247.500 km,"3 degisen, 1 boyali",takasa uygun degil,sahibinden,86.750 TL
+nissan,primera,1.6 visia,2004,benzin,duz,1596 cc,109 hp,180.000 km,"1 degisen, 7 boyali",takasa uygun degil,sahibinden,93.750 TL
+nissan,almera,1.5 luxury,2001,lpg & benzin,duz,1497 cc,90 hp,288.000 km,belirtilmemis,takasa uygun degil,sahibinden,68.500 TL
+nissan,note,1.5 dci tekna,2013,dizel,duz,1461 cc,90 hp,199.000 km,belirtilmemis,takasa uygun degil,sahibinden,155.250 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,206.000 km,belirtilmemis,takasa uygun degil,sahibinden,72.500 TL
+nissan,note,1.2 visia,2014,benzin,duz,1198 cc,80 hp,52.000 km,belirtilmemis,takasa uygun degil,sahibinden,125.000 TL
+nissan,primera,1.6 visia,2004,benzin,duz,1596 cc,109 hp,211.000 km,"1 degisen, 2 boyali",takasa uygun,sahibinden,94.500 TL
+nissan,primera,2.0 td luxe,2000,dizel,duz,1974 cc,90 hp,265.000 km,"3 degisen, 6 boyali",takasa uygun,galeriden,47.500 TL
+nissan,micra,1.3 gx,1998,lpg & benzin,otomatik,1275 cc,75 hp,258.000 km,belirtilmemis,takasa uygun degil,sahibinden,57.500 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,300.000 km,tamami orjinal,takasa uygun degil,sahibinden,67.500 TL
+nissan,primera,1.6 tekna,2006,lpg & benzin,duz,1596 cc,109 hp,357.000 km,belirtilmemis,takasa uygun,sahibinden,67.000 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,129.000 km,belirtilmemis,takasa uygun degil,galeriden,117.900 TL
+nissan,note,1.5 dci visia,2008,dizel,duz,,,155.000 km,belirtilmemis,takasa uygun degil,sahibinden,130.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,299.000 km,tamami orjinal,takasa uygun degil,sahibinden,56.500 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,250.000 km,belirtilmemis,takasa uygun,sahibinden,57.500 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,135.500 km,belirtilmemis,takasa uygun degil,sahibinden,68.500 TL
+nissan,micra,1.2 tekna,2012,benzin,otomatik,1198 cc,80 hp,126.000 km,"1 degisen, 1 boyali",takasa uygun degil,sahibinden,155.000 TL
+nissan,micra,1.2 match,2018,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,43.000 km,belirtilmemis,takasa uygun,galeriden,183.000 TL
+nissan,laurel altima,2.0,1991,lpg & benzin,duz,1801 - 2000 cm3,76 - 100 hp,139.000 km,belirtilmemis,takasa uygun,sahibinden,76.500 TL
+nissan,primera,1.6 special edition,1999,lpg & benzin,duz,1597 cc,100 hp,239.000 km,1 degisen,takasa uygun degil,sahibinden,62.000 TL
+nissan,micra,1.3 gx,1997,lpg & benzin,otomatik,,,177.000 km,tamami boyali,takasa uygun degil,sahibinden,53.000 TL
+nissan,primera,2.2 td,2004,dizel,duz,2184 cc,138 hp,403.000 km,belirtilmemis,takasa uygun degil,sahibinden,68.000 TL
+nissan,note,1.5 dci platinum,2014,dizel,otomatik,,,220.000 km,belirtilmemis,takasa uygun degil,sahibinden,230.000 TL
+nissan,note,1.5 dci tekna,2014,dizel,duz,1461 cc,90 hp,124.000 km,"1 degisen, 3 boyali",takasa uygun,sahibinden,141.000 TL
+nissan,primera,2.0 gt,1998,lpg & benzin,duz,1998 cc,150 hp,380.000 km,belirtilmemis,takasa uygun,galeriden,62.750 TL
+nissan,note,1.5 dci tekna,2012,dizel,duz,,,220.800 km,belirtilmemis,takasa uygun degil,sahibinden,165.000 TL
+nissan,primera,1.6 tekna,2006,benzin,duz,1596 cc,109 hp,170.000 km,6 boyali,takasa uygun degil,sahibinden,87.000 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,200.000 km,belirtilmemis,takasa uygun degil,sahibinden,97.000 TL
+nissan,micra,1.2 passion,2007,benzin,otomatik,1240 cc,80 hp,145.000 km,belirtilmemis,takasa uygun,galeriden,112.500 TL
+nissan,micra,1.2 match,2017,benzin,otomatik,1198 cc,80 hp,62.000 km,tamami orjinal,takasa uygun degil,sahibinden,191.900 TL
+nissan,note,1.6 tekna,2008,benzin,otomatik,1598 cc,110 hp,223.000 km,12 boyali,takasa uygun degil,sahibinden,130.900 TL
+nissan,almera,1.5 comfort,2001,lpg & benzin,duz,1401 - 1600 cm3,76 - 100 hp,250.000 km,belirtilmemis,takasa uygun,galeriden,67.000 TL
+nissan,micra,1.6 c+c,2006,benzin,duz,1401 - 1600 cm3,101 - 125 hp,198.000 km,belirtilmemis,takasa uygun,galeriden,100.000 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,293.500 km,belirtilmemis,takasa uygun degil,sahibinden,67.000 TL
+nissan,note,1.5 dci tekna,2008,dizel,duz,1461 cc,86 hp,182.000 km,belirtilmemis,takasa uygun degil,sahibinden,112.000 TL
+nissan,note,1.6 tekna,2008,lpg & benzin,otomatik,1598 cc,110 hp,205.000 km,belirtilmemis,takasa uygun,galeriden,121.700 TL
+nissan,micra,1.2 tekna,2004,benzin,duz,1240 cc,80 hp,217.000 km,belirtilmemis,takasa uygun,sahibinden,85.500 TL
+nissan,primera,1.6 visia,2007,lpg & benzin,duz,1596 cc,109 hp,236.000 km,belirtilmemis,takasa uygun,sahibinden,82.750 TL
+nissan,note,1.4 tekna,2007,benzin,duz,1386 cc,88 hp,153.000 km,belirtilmemis,takasa uygun degil,sahibinden,127.500 TL
+nissan,sunny,1.6 slx,1991,lpg & benzin,duz,1597 cc,90 hp,219.000 km,3 degisen,takasa uygun degil,sahibinden,43.000 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,270.000 km,belirtilmemis,takasa uygun degil,sahibinden,61.500 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,219.000 km,1 boyali,takasa uygun degil,sahibinden,77.500 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,270.000 km,belirtilmemis,takasa uygun degil,sahibinden,61.500 TL
+nissan,primera,1.6 slx,1997,lpg & benzin,duz,1597 cc,100 hp,270.000 km,belirtilmemis,takasa uygun degil,sahibinden,60.000 TL
+nissan,bluebird,,1994,lpg & benzin,duz,,,350.000 km,belirtilmemis,takasa uygun degil,sahibinden,28.999 TL
+nissan,primera,1.6 tekna,2005,benzin,duz,1596 cc,109 hp,279.800 km,belirtilmemis,takasa uygun degil,sahibinden,90.000 TL
+nissan,note,1.4 visia,2007,benzin,duz,1386 cc,88 hp,132.000 km,"1 degisen, 9 boyali",takasa uygun degil,sahibinden,87.500 TL
+nissan,micra,1.2 punch,2012,benzin,duz,1198 cc,80 hp,79.000 km,belirtilmemis,takasa uygun degil,sahibinden,135.000 TL
+nissan,note,1.5 dci tekna,2012,dizel,duz,1461 cc,103 hp,220.800 km,tamami orjinal,takasa uygun degil,sahibinden,158.000 TL
+nissan,micra,1.4 tekna,2005,lpg & benzin,otomatik,1386 cc,88 hp,109.000 km,5 boyali,takasa uygun,sahibinden,125.000 TL
+nissan,primera,2.0 se,1999,lpg & benzin,otomatik,1801 - 2000 cm3,101 - 125 hp,185.000 km,tamami orjinal,takasa uygun,sahibinden,66.000 TL
+nissan,primera,1.6 tekna,2004,lpg & benzin,duz,1596 cc,109 hp,265.000 km,5 boyali,takasa uygun degil,sahibinden,82.000 TL
+nissan,primera,2.0 elegance,2000,lpg & benzin,otomatik,1998 cc,140 hp,254.000 km,"2 degisen, 8 boyali",takasa uygun degil,sahibinden,67.000 TL
+nissan,note,1.2 tekna,2014,benzin,duz,1198 cc,80 hp,92.000 km,belirtilmemis,takasa uygun degil,sahibinden,135.000 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,270.000 km,belirtilmemis,takasa uygun,sahibinden,73.000 TL
+nissan,micra,1.2 mood,2006,benzin,duz,1240 cc,65 hp,236.000 km,belirtilmemis,takasa uygun,sahibinden,76.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,250.000 km,"1 degisen, 9 boyali",takasa uygun degil,sahibinden,63.500 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,125 hp,252.000 km,1 degisen,takasa uygun degil,sahibinden,48.500 TL
+nissan,almera,1.5 visia,2005,lpg & benzin,duz,1498 cc,98 hp,246.000 km,"1 degisen, 10 boyali",takasa uygun,galeriden,75.000 TL
+nissan,primera,1.6 visia,2005,lpg & benzin,duz,1596 cc,109 hp,280.000 km,"1 degisen, 8 boyali",takasa uygun degil,sahibinden,80.000 TL
+nissan,100 nx,nx,1991,lpg & benzin,duz,1597 cc,90 hp,109.000 km,belirtilmemis,takasa uygun degil,sahibinden,45.000 TL
+nissan,almera,1.5 luxury,2003,lpg & benzin,duz,1497 cc,90 hp,263.000 km,belirtilmemis,takasa uygun,sahibinden,67.900 TL
+nissan,almera,1.6 gx,2001,lpg & benzin,otomatik,1597 cc,100 hp,336.000 km,belirtilmemis,takasa uygun degil,sahibinden,76.000 TL
+nissan,micra,1.2 tekna,2006,benzin,duz,1240 cc,80 hp,63.000 km,"2 degisen, 8 boyali",takasa uygun degil,sahibinden,92.000 TL
+nissan,primera,1.6 gx,1998,lpg & benzin,duz,1597 cc,100 hp,253.000 km,belirtilmemis,takasa uygun degil,sahibinden,59.000 TL
+nissan,almera,1.5 comfort,2000,lpg & benzin,duz,1497 cc,90 hp,174.000 km,belirtilmemis,takasa uygun degil,sahibinden,85.000 TL
+nissan,almera,2.2,2006,dizel,duz,2001 - 2500 cm3,126 - 150 hp,220.000 km,"1 degisen, 2 boyali",takasa uygun degil,sahibinden,97.750 TL
+nissan,primera,1.6 tekna,2005,benzin,duz,1596 cc,109 hp,155.000 km,belirtilmemis,takasa uygun degil,sahibinden,85.000 TL
+nissan,micra,1.2 tekna,2004,lpg & benzin,duz,1240 cc,80 hp,267.000 km,"3 degisen, 7 boyali",takasa uygun degil,sahibinden,68.500 TL
+nissan,almera,1.5 luxury,2000,lpg & benzin,duz,1497 cc,90 hp,270.000 km,belirtilmemis,takasa uygun degil,sahibinden,63.900 TL
+nissan,maxima,2.0 qx,1996,lpg & benzin,duz,1995 cc,140 hp,310.000 km,2 boyali,takasa uygun degil,sahibinden,39.000 TL
+nissan,primera,2.0 se,1997,lpg & benzin,duz,1998 cc,130 hp,401.000 km,belirtilmemis,takasa uygun degil,sahibinden,50.000 TL
+nissan,laurel altima,2.0,1993,lpg & benzin,otomatik,1998 cc,125 hp,364.000 km,belirtilmemis,takasa uygun,sahibinden,35.500 TL
+nissan,note,1.6 tekna,2008,lpg & benzin,otomatik,1598 cc,110 hp,83.500 km,tamami orjinal,takasa uygun degil,sahibinden,143.000 TL
+nissan,primera,1.6 slx,1998,lpg & benzin,duz,1597 cc,100 hp,310.000 km,belirtilmemis,takasa uygun,sahibinden,57.500 TL
+nissan,almera,1.5 tekna,2006,lpg & benzin,duz,1498 cc,98 hp,175.550 km,3 boyali,takasa uygun degil,sahibinden,87.800 TL
+nissan,primera,1.6 comfort,2001,lpg & benzin,duz,1597 cc,106 hp,266.000 km,"1 degisen, 9 boyali",takasa uygun degil,sahibinden,73.500 TL
+nissan,almera,1.5 tekna,2005,lpg & benzin,duz,1498 cc,98 hp,257.000 km,belirtilmemis,takasa uygun,sahibinden,75.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,185.000 km,"1 degisen, 1 boyali",takasa uygun degil,sahibinden,75.000 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,222.000 km,belirtilmemis,takasa uygun,sahibinden,80.000 TL
+nissan,note,1.5 dci tekna,2011,dizel,duz,1461 cc,103 hp,171.000 km,1 boyali,takasa uygun degil,sahibinden,104.000 TL
+nissan,primera,1.6 visia,2006,benzin,duz,1596 cc,109 hp,242.000 km,"3 degisen, 5 boyali",takasa uygun degil,galeriden,81.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,220.000 km,belirtilmemis,takasa uygun degil,sahibinden,63.500 TL
+nissan,primera,2.0 gt,1998,lpg & benzin,duz,1801 - 2000 cm3,126 - 150 hp,280.000 km,belirtilmemis,takasa uygun degil,galeriden,62.750 TL
+nissan,primera,1.6 tekna,2005,lpg & benzin,duz,1596 cc,109 hp,230.000 km,belirtilmemis,takasa uygun degil,sahibinden,80.750 TL
+nissan,note,1.5 dci visia,2009,dizel,duz,1461 cc,86 hp,193.000 km,belirtilmemis,takasa uygun degil,sahibinden,110.000 TL
+nissan,note,1.5 dci platinum,2014,dizel,duz,1461 cc,90 hp,169.000 km,belirtilmemis,takasa uygun,galeriden,109.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,150.500 km,"1 degisen, 2 boyali",takasa uygun degil,sahibinden,85.500 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,,,183.000 km,1 boyali,takasa uygun degil,sahibinden,83.750 TL
+nissan,note,1.4 tekna,2006,benzin,duz,1386 cc,88 hp,166.500 km,"2 degisen, 5 boyali",takasa uygun,sahibinden,79.500 TL
+nissan,almera,1.5 luxury,2001,benzin,duz,1497 cc,90 hp,305.000 km,belirtilmemis,takasa uygun degil,sahibinden,63.000 TL
+nissan,micra,1.2 mood,2008,benzin,duz,1240 cc,65 hp,142.000 km,3 boyali,takasa uygun degil,sahibinden,92.000 TL
+nissan,micra,1.2 mood,2008,benzin,duz,1240 cc,65 hp,142.000 km,3 boyali,takasa uygun degil,sahibinden,92.000 TL
+nissan,micra,1.3 magic,1999,benzin,duz,1275 cc,75 hp,166.000 km,3 boyali,takasa uygun,sahibinden,70.500 TL
+nissan,micra,1.2 passion,2011,benzin,otomatik,1240 cc,80 hp,76.000 km,5 boyali,takasa uygun degil,galeriden,135.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,245.000 km,"2 degisen, 8 boyali",takasa uygun,sahibinden,67.000 TL
+nissan,micra,1.2 mood,2005,benzin,duz,1240 cc,65 hp,96.000 km,belirtilmemis,takasa uygun degil,sahibinden,90.000 TL
+nissan,micra,1.2 tekna,2011,benzin,duz,1198 cc,80 hp,84.000 km,belirtilmemis,takasa uygun,galeriden,115.750 TL
+nissan,micra,1.2 punch,2012,benzin,otomatik,1198 cc,80 hp,79.250 km,11 boyali,takasa uygun degil,sahibinden,139.750 TL
+nissan,almera,1.5 tekna,2004,lpg & benzin,duz,1498 cc,98 hp,126.000 km,tamami orjinal,takasa uygun,sahibinden,93.000 TL
+nissan,micra,1.3 magic,2000,lpg & benzin,otomatik,1275 cc,75 hp,201.000 km,belirtilmemis,takasa uygun degil,galeriden,65.000 TL
+nissan,note,1.5 dci tekna,2011,dizel,duz,1461 cc,103 hp,155.000 km,6 boyali,takasa uygun degil,sahibinden,115.000 TL
+nissan,micra,1.2 passion,2005,lpg & benzin,duz,1240 cc,80 hp,108.000 km,belirtilmemis,takasa uygun degil,sahibinden,81.000 TL
+nissan,micra,1.2 passion,2011,benzin,duz,1240 cc,80 hp,75.000 km,belirtilmemis,takasa uygun degil,sahibinden,115.000 TL
+nissan,almera,1.5 tekna,2007,lpg & benzin,duz,1498 cc,98 hp,211.000 km,belirtilmemis,takasa uygun degil,galeriden,77.500 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,316.000 km,belirtilmemis,takasa uygun degil,sahibinden,73.000 TL
+nissan,almera,1.5 luxury,2001,lpg & benzin,duz,1497 cc,90 hp,320.496 km,belirtilmemis,takasa uygun,sahibinden,63.900 TL
+nissan,almera,1.5 tekna,2006,benzin,duz,1498 cc,98 hp,123.750 km,"3 degisen, 4 boyali",takasa uygun degil,sahibinden,84.000 TL
+nissan,micra,1.2 tekna,2005,benzin,otomatik,1201 - 1400 cm3,76 - 100 hp,145.000 km,belirtilmemis,takasa uygun degil,galeriden,117.900 TL
+nissan,primera,1.6 visia,2005,lpg & benzin,duz,1596 cc,109 hp,317.000 km,belirtilmemis,takasa uygun degil,sahibinden,75.000 TL
+nissan,primera,1.6 comfort,2000,lpg & benzin,duz,1597 cc,100 hp,316.000 km,belirtilmemis,takasa uygun,sahibinden,73.000 TL
+nissan,micra,1.2 street,2015,benzin,yari otomatik,1200 cm3' e kadar,76 - 100 hp,32.000 km,belirtilmemis,takasa uygun,galeriden,154.500 TL
+nissan,primera,1.6,2000,lpg & benzin,duz,1597 cc,100 hp,255.000 km,belirtilmemis,takasa uygun,galeriden,60.000 TL
